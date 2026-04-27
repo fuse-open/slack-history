@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1733213545.652049",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 2 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/38ae0bb2888fddc749de30c71682603851739db7|38ae0bb2>` - android fix crash on layout transformation\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/84a434c39efa87bba7b3a6354ea2552d7e4f1307|84a434c3>` - Merge pull request #1506 from ichan-mb\/fix_layout_calculation",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/a4d3d0a2127d...84a434c39efa|2 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B023X8DUEHJ",
+        "thread_ts": "1733131536.064149",
+        "root": {
+            "user": "U024ET51BLG",
+            "type": "message",
+            "ts": "1733131536.064149",
+            "edited": {
+                "user": "B023X8DUEHJ",
+                "ts": "1733213546.000000"
+            },
+            "bot_id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T08325737",
+            "bot_profile": {
+                "id": "B023X8DUEHJ",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U024ET51BLG",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1622616203,
+                "team_id": "T08325737"
+            },
+            "thread_ts": "1733131536.064149",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1733213546.377889",
+            "reply_users": [
+                "U024ET51BLG"
+            ],
+            "replies": [
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1733212500.892299"
+                },
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1733213546.377889"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1733131531,
+                    "color": "6f42c1",
+                    "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                    "text": "On some rare case, Application will go crash if we do component transformation such as `Scale`, `Rotate` because of bad calculation (Float.NaN), we need more investigation on how it came like that. but in meanwhile we add sanitary check before transformation\n\n<https:\/\/private-user-images.githubusercontent.com\/10460131\/391410142-2c9c8c07-dd87-4dae-b66e-c32daec82015.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyMTM4NDYsIm5iZiI6MTczMzIxMzU0NiwicGF0aCI6Ii8xMDQ2MDEzMS8zOTE0MTAxNDItMmM5YzhjMDctZGQ4Ny00ZGFlLWI2NmUtYzMyZGFlYzgyMDE1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAzVDA4MTIyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMGU1MDhjMmYzMWM3YTNmM2Y2ODYxMmVhMzNiNjIwODViMjQzMTE3YjU1YWRmNGM4NDViYTc1Mjg1OGY3YmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LScSOeh0_nj9EJMHYk7P7HgROflu2tMwW9mYuP8kTXA|error>\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                    "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1506|#1506 android fix crash on layout transformation>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/mortend|@mortend>",
+                            "title": "Reviewers",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1506,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1506&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;android fix crash on layout transformation&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1733213546.377889",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1733131531,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request merged by mortend",
+                "pretext": "Pull request merged by <https:\/\/github.com\/mortend|mortend>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1506|#1506 android fix crash on layout transformation>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>"
+            }
+        ]
+    }
+]

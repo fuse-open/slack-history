@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Need Help to Set Up Real Time Updates - @Romana (Romana Jackson)",
+                "text": "Hello everyone\n\nRecently I joined the real time chat app.\n\nI have no experience so please help me to set up real time updates and manage user authentication properly. Is anyone facing the same problem?\n\nPlease share your experience and how you solved this problem.\n\nI would like to greatly appreciate any kind of help and advice. :saluting_face:",
+                "title": "Need Help to Set Up Real Time Updates [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/need-help-to-set-up-real-time-updates\/8435\/1",
+                "author_name": "@Romana (Romana Jackson)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/romana\/45\/1121_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718104739.891689",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

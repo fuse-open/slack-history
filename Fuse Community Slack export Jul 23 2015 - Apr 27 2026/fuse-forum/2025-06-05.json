@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Open MDB Files Manually - @mohdkaif002 (Mohd Kaif)",
+                "text": "Here are the most common manual method to open MDB files:\n\n1. Using Microsoft Access Runtime: Microsoft provides a free runtime version of Access. This allows you to open and run Access applications and view MDB files without needing to purchase the full version of Microsoft Access.\n\nHow to:\n\nDownload and install the appropriate version of Microsoft Access Runtime from the official Microsoft webs…",
+                "title": "How to Open MDB Files Manually [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-open-mdb-files-manually\/8699\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1749127123.554999",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

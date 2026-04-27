@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U7ZRUCSUU",
+        "type": "message",
+        "ts": "1727962543.469529",
+        "client_msg_id": "ddb6e66e-1788-42b6-94a4-b92f3e22d9d4",
+        "text": "Hi users.\nI need help installing android-build-tools on Mac. It keep saying I need JDK 17 or higher. I have 21, 22 installed. Running javac -version and java -version confirms the installation. I also asked on the forum but it seems it is not very active.\n<https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1|https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1>",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "g08dd2012d4f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b08dd2012d4f6f2e9edf3f333ec0272a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Olalekan",
+            "real_name": "Olalekan Oladipupo",
+            "display_name": "Lakex",
+            "team": "T08325737",
+            "name": "olalekanoladipupo1050",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/global.discourse-cdn.com\/flex035\/uploads\/fusetools1\/original\/1X\/f90ba542f6ce059dd9fc821d68dd19b591e6ebac.jpeg",
+                "image_width": 285,
+                "image_height": 150,
+                "image_bytes": 25945,
+                "from_url": "https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1",
+                "service_icon": "https:\/\/global.discourse-cdn.com\/flex035\/uploads\/fusetools1\/optimized\/1X\/11efbfa7e86529ad75a23a770882fa38ea764274_2_180x180.jpeg",
+                "ts": 1727958762,
+                "id": 1,
+                "original_url": "https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1",
+                "fallback": "Fuse Community: Android-build-tools can't find JDK",
+                "text": "Problem with installing android-build-tools on Mac. running java -version returns: java version \"22.0.1\" 2024-04-16 Java(TM) SE Runtime Environment (build 22.0.1+8-16) Java HotSpot(TM) 64-Bit Server VM (build 22.0.1+8-16, mixed mode, sharing) javac -version returns: javac 22.0.1 Is there any workaround to this? I also install openjdk using brew, temurin and version 21 from Oracle website, but still the same issue. I want to make sure this is resolved before I commit fully to Fuse, coming fr...",
+                "title": "Android-build-tools can't find JDK",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1",
+                "service_name": "Fuse Community"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/k3GY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi users.\nI need help installing android-build-tools on Mac. It keep saying I need JDK 17 or higher. I have 21, 22 installed. Running javac -version and java -version confirms the installation. I also asked on the forum but it seems it is not very active.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1",
+                                "text": "https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

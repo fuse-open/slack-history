@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Method to Export CDR to DOC File? - @mohdkaif002 (Mohd Kaif)",
+                "text": "MacSonik CDR Converter makes it simple to export CDR files to DOC format. After installing and launching the tool, add your desired CDR files or entire folders. Once the files are uploaded, you can preview them to confirm your selection. Then, choose DOC from the available saving options, apply filters if needed, and set the destination path. Click Convert, and the software will swiftly convert yo…",
+                "title": "Easy Method to Export CDR to DOC File? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-method-to-export-cdr-to-doc-file\/9196\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758535426.100739",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Transfer Windows Live Mail to Gmail? - @brookeespinosa",
+                "text": "To transfer Windows Live Mail to Gmail, I utilized ToolsBaer EML to Gmail Importer to move Windows Live Mail emails to Gmail and it was a flawless process. Without requiring any initial setup and the application imports EML files from Windows Live Mail straight into a Gmail account. It preserves formatting, subject, attachments and other information. Additionally, you have the option to migrate en…",
+                "title": "How to Transfer Windows Live Mail to Gmail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-transfer-windows-live-mail-to-gmail\/9189\/2",
+                "author_name": "@brookeespinosa",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/edb3f5\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758545003.054499",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

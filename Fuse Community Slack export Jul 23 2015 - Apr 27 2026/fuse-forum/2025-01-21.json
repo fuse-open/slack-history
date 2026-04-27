@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Facing Some Issues with Fuse Studio Build Not Working After Update! - @salas00marcelo (Marcelo Salas)",
+                "text": "Hi,\n\nI recently updated my Fuse Studio but now I am facing an issue where the build process isn’t working as expected. I get an error message every time I try to build my project. I have tried restarting the program, reinstalling and clearing the cache but nothing seems to help.\n\nI am working on a simple mobile app…, and it was working fine before the update. I have checked the logs, and it doesn’…",
+                "title": "Facing Some Issues with Fuse Studio Build Not Working After Update! [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/facing-some-issues-with-fuse-studio-build-not-working-after-update\/8547\/1",
+                "author_name": "@salas00marcelo (Marcelo Salas)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/salas00marcelo\/45\/1131_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1737449520.760769",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

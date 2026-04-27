@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Way to Convert OLM Files to PST? - @vartikasoftware",
+                "text": "VSPL <https:\/\/appsource.microsoft.com\/en-us\/product\/web-apps\/vartikasoftwareprivatelimited1702907737065.vmail-olm-to-pst-converter|OLM to PST converter> software is an easiest way to convert OLM to PST with entire mailbox data. It maintains the OLM data structure as it is and save OLM data in PST as it is. It works on all Outlook versions and move OLM to PST, EML, MSG, HTML, MBOX, vCard and PDF.\n\nGet More Details Here\n\n<https:\/\/appsource.microsoft.com\/en-us\/product\/web-apps\/vartikasoftwareprivatelimited1702907737065.vmail-olm-to-pst-converter|vMail OLM to PST Converter>",
+                "title": "Easy Way to Convert OLM Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-way-to-convert-olm-files-to-pst\/8981\/2",
+                "author_name": "@vartikasoftware",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/v\/4bbf92\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753975659.573559",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

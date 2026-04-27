@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1776606519.321839",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1775791616.680959",
+        "parent_user_id": "U024ET51BLG",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1776606517,
+                "color": "36a64f",
+                "fallback": "[fuse-open\/fuselibs] Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/apps\/dependabot|dependabot[bot]'s> pull request",
+                "pretext": "Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/apps\/dependabot|dependabot[bot]'s> pull request",
+                "title": "Review on #1515 Bump lodash from 4.17.23 to 4.18.1",
+                "title_link": "https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1515#pullrequestreview-4136048623",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1776606524.549379",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 2 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/1197887084330d93471c56c38a2be19620ab4eed|11978870>` - Bump lodash from 4.17.23 to 4.18.1\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/799848ec660b660154cceca7481974d121354fe4|799848ec>` - Merge pull request #1515 from fuse-open\/dependabot\/npm_and_yarn\/lodash-4.18.1",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/7a4bec9926a7...799848ec660b|2 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B023X8DUEHJ",
+        "thread_ts": "1775791616.680959",
+        "root": {
+            "user": "U024ET51BLG",
+            "type": "message",
+            "ts": "1775791616.680959",
+            "edited": {
+                "user": "B023X8DUEHJ",
+                "ts": "1776606525.000000"
+            },
+            "bot_id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T08325737",
+            "bot_profile": {
+                "id": "B023X8DUEHJ",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U024ET51BLG",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1622616203,
+                "team_id": "T08325737"
+            },
+            "thread_ts": "1775791616.680959",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1776606525.102409",
+            "reply_users": [
+                "U024ET51BLG"
+            ],
+            "replies": [
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1776606519.321839"
+                },
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1776606525.102409"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1775791613,
+                    "color": "6f42c1",
+                    "fallback": "[fuse-open\/fuselibs] Pull request opened by dependabot[bot]",
+                    "text": "Bumps <https:\/\/github.com\/lodash\/lodash|lodash> from 4.17.23 to 4.18.1.\nRelease notes \n_Sourced from <https:\/\/github.com\/lodash\/lodash\/releases|lodash's releases>._\n\n&gt; *4.18.1*\n&gt; \n&gt; *Bugs*\n&gt; \n&gt; Fixes a `ReferenceError` issue in `lodash` `lodash-es` `lodash-amd` and `lodash.template` when using the `template` and `fromPairs` functions from the modular builds. See <https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6167#issuecomment-4165269769|lodash\/lodash#6167>\n&gt; These defects were related to how lodash distributions are built from the main branch using <https:\/\/github.com\/lodash-archive\/lodash-cli|https:\/\/github.com\/lodash-archive\/lodash-cli>. When internal dependencies change inside lodash functions, equivalent updates need to be made to a mapping in the lodash-cli. (hey, it was ahead of its time once upon a time!). We know this, but we missed it in the last release. It's the kind of thing that passes in CI, but fails bc the build is not the same thing you tested.\n&gt; There is no diff on main for this, but you can see the diffs for each of the npm packages on their respective branches:\n&gt; • `lodash`: <https:\/\/github.com\/lodash\/lodash\/compare\/4.18.0-npm...4.18.1-npm|lodash\/lodash@4.18.0-npm...4.18.1-npm>\n&gt; • `lodash-es`: <https:\/\/github.com\/lodash\/lodash\/compare\/4.18.0-es...4.18.1-es|lodash\/lodash@4.18.0-es...4.18.1-es>\n&gt; • `lodash-amd`: <https:\/\/github.com\/lodash\/lodash\/compare\/4.18.0-amd...4.18.1-amd|lodash\/lodash@4.18.0-amd...4.18.1-amd>\n&gt; • `lodash.template`<https:\/\/github.com\/lodash\/lodash\/compare\/4.18.0-npm-packages...4.18.1-npm-packages|lodash\/lodash@4.18.0-npm-packages...4.18.1-npm-packages>\n&gt; \n&gt; *4.18.0*\n&gt; \n&gt; *v4.18.0*\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/lodash\/lodash\/compare\/4.17.23...4.18.0|lodash\/lodash@4.17.23...4.18.0>\n&gt; \n&gt; *Security*\n&gt; \n&gt; *`_.unset` \/ `_.omit`*: Fixed prototype pollution via `constructor`\/`prototype` path traversal (<https:\/\/github.com\/lodash\/lodash\/security\/advisories\/GHSA-f23m-r3pf-42rh|GHSA-f23m-r3pf-42rh>, <https:\/\/github.com\/lodash\/lodash\/commit\/fe8d32eda854377349a4f922ab7655c8e5df9a0b|fe8d32e>). Previously, array-wrapped path segments and primitive roots could bypass the existing guards, allowing deletion of properties from built-in prototypes. Now `constructor` and `prototype` are blocked unconditionally as non-terminal path keys, matching `baseSet`. Calls that previously returned `true` and deleted the property now return `false` and leave the target untouched.\n&gt; *`_.template`*: Fixed code injection via `imports` keys (<https:\/\/github.com\/lodash\/lodash\/security\/advisories\/GHSA-r5fr-rjxr-66jc|GHSA-r5fr-rjxr-66jc>, <https:\/\/github.com\/advisories\/GHSA-r5fr-rjxr-66jc|CVE-2026-4800>, <https:\/\/github.com\/lodash\/lodash\/commit\/879aaa93132d78c2f8d20c60279da9f8b21576d6|879aaa9>). Fixes an incomplete patch for <https:\/\/github.com\/advisories\/GHSA-35jh-r3h4-6jhm|CVE-2021-23337>. The `variable` option was validated against `reForbiddenIdentifierChars` but `importsKeys` was left unguarded, allowing code injection via the same `Function()` constructor sink. `imports` keys containing forbidden identifier characters now throw `\"Invalid imports option passed into _.template\"`.\n&gt; \n&gt; *Docs*\n&gt; \n&gt; • Add security notice for `_.template` in threat model and API docs (<https:\/\/redirect.github.com\/lodash\/lodash\/pull\/6099|#6099>)\n&gt; • Document `lower &gt; upper` behavior in `_.random` (<https:\/\/redirect.github.com\/lodash\/lodash\/pull\/6115|#6115>)\n&gt; • Fix quotes in `_.compact` jsdoc (<https:\/\/redirect.github.com\/lodash\/lodash\/pull\/6090|#6090>)\n&gt; \n&gt; *`lodash.` modular packages*\n&gt; \n&gt; <https:\/\/redirect.github.com\/lodash\/lodash\/pull\/6157|Diff>\n&gt; We have also regenerated and published a select number of the `lodash.*` modular packages.\n&gt; These modular packages had fallen out of sync significantly from the minor\/patch updates to lodash. Specifically, we have brought the following packages up to parity w\/ the latest lodash release because they have had CVEs on them in the past:\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.orderby|lodash.orderby>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.tonumber|lodash.tonumber>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.trim|lodash.trim>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.trimend|lodash.trimend>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.sortedindexby|lodash.sortedindexby>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.zipobjectdeep|lodash.zipobjectdeep>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.unset|lodash.unset>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.omit|lodash.omit>\n&gt; • <https:\/\/www.npmjs.com\/package\/lodash.template|lodash.template>\n\nCommits \n• <https:\/\/github.com\/lodash\/lodash\/commit\/cb0b9b9212521c08e3eafe7c8cb0af1b42b6649e|`cb0b9b9`> release(patch): bump main to 4.18.1 (<https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6177|#6177>)\n• <https:\/\/github.com\/lodash\/lodash\/commit\/75535f57883b7225adb96de1cfc1cd4169cfcb51|`75535f5`> chore: prune stale advisory refs (<https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6170|#6170>)\n• <https:\/\/github.com\/lodash\/lodash\/commit\/62e91bc6a39c98d85b9ada8c44d40593deaf82a4|`62e91bc`> docs: remove n_ Node.js &lt; 6 REPL note from README (<https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6165|#6165>)\n• <https:\/\/github.com\/lodash\/lodash\/commit\/59be2de61f8aa9461c7856533b51d31b7d8babc4|`59be2de`> release(minor): bump to 4.18.0 (<https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6161|#6161>)\n• <https:\/\/github.com\/lodash\/lodash\/commit\/af634573030f979194871da7c68f79420992f53d|`af63457`> fix: broken tests for _.template 879aaa9\n• <https:\/\/github.com\/lodash\/lodash\/commit\/1073a7693e1727e0cf3641e5f71f75ddcf8de7c0|`1073a76`> fix: linting issues\n• <https:\/\/github.com\/lodash\/lodash\/commit\/879aaa93132d78c2f8d20c60279da9f8b21576d6|`879aaa9`> fix: validate imports keys in _.template\n• <https:\/\/github.com\/lodash\/lodash\/commit\/fe8d32eda854377349a4f922ab7655c8e5df9a0b|`fe8d32e`> fix: block prototype pollution in baseUnset via constructor\/prototype traversal\n• <https:\/\/github.com\/lodash\/lodash\/commit\/18ba0a32f42fd02117f096b032f89c984173462d|`18ba0a3`> refactor(fromPairs): use baseAssignValue for consistent assignment (<https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6153|#6153>)\n• <https:\/\/github.com\/lodash\/lodash\/commit\/b8190803d48d60b8c80ad45d39125f32fa618cb2|`b819080`> ci: add dist sync validation workflow (<https:\/\/redirect.github.com\/lodash\/lodash\/issues\/6137|#6137>)\n• Additional commits viewable in <https:\/\/github.com\/lodash\/lodash\/compare\/4.17.23...4.18.1|compare view>\n  \n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|Dependabot compatibility score>\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n---\n\nDependabot commands and options   \nYou can trigger Dependabot actions by commenting on this PR:\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \nYou can disable automated security fix PRs for this repo from the <https:\/\/github.com\/fuse-open\/fuselibs\/network\/alerts|Security Alerts page>.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                    "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1515|#1515 Bump lodash from 4.17.23 to 4.18.1>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/mortend|@mortend>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "dependencies, javascript",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1515,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1515&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Bump lodash from 4.17.23 to 4.18.1&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1776606525.102409",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1775791613,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request merged by mortend",
+                "pretext": "Pull request merged by <https:\/\/github.com\/mortend|mortend>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1515|#1515 Bump lodash from 4.17.23 to 4.18.1>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>"
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1776606527.875459",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "cb2431",
+                "fallback": "[fuse-open\/fuselibs] branch dependabot\/npm_and_yarn\/lodash-4.18.1 deleted by mortend",
+                "text": "*dependabot\/npm_and_yarn\/lodash-4.18.1 was deleted*",
+                "pretext": "Branch deleted by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

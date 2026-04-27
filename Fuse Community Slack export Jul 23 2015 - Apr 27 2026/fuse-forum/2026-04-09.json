@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Fix Mac Mail Attachments Not Downloading? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If attachments are not downloading in Apple Mail, the issue is usually caused by poor internet connectivity, incorrect account settings, or temporary sync glitches. Start by checking your internet connection and restarting the Mail app to refresh its processes. If the problem persists, rebuild the mailbox to force re-syncing of emails and attachments, and verify that your email account settings ar…",
+                "title": "How to Fix Mac Mail Attachments Not Downloading? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-fix-mac-mail-attachments-not-downloading\/9629\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1775719892.156409",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert CSV Files to VCF? - @tyler_howard",
+                "text": "If you are trying to convert CSV contacts to VCF format and searching for a way to transfer CSV contacts into vCard with complete accuracy.\n\nSo, according to my personal experience, there are many methods to do that, but it depends on your CSV file’s size. If your CSV file is small or has few contacts in your file, then you can go through the manual method, which works well for small files. But if…",
+                "title": "How to Convert CSV Files to VCF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-csv-files-to-vcf\/9179\/4",
+                "author_name": "@tyler_howard",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/t\/5f8ce5\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1775804087.247979",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

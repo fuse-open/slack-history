@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Migrate EML to PST with MailsWare EML Convertor Toolkit - @jacksoncarl",
+                "text": "Thank you for sharing detailed information, but if anyone is looking for a solution to convert your EML to PST, don’t worry, if you are reading this, you will know. You can easily convert your EML to PST with the right method. To convert your EML to PST, you have to create EML files of your emails. After that, try the Advik EML to PST Converter program. This is the only tool that allows selective …",
+                "title": "Migrate EML to PST with MailsWare EML Convertor Toolkit [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migrate-eml-to-pst-with-mailsware-eml-convertor-toolkit\/8540\/7",
+                "author_name": "@jacksoncarl",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/jacksoncarl\/45\/1220_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764326937.855039",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

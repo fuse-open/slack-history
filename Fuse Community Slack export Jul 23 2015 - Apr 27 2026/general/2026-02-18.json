@@ -1,0 +1,55 @@
+[
+    {
+        "user": "UL0LYUFD5",
+        "type": "message",
+        "ts": "1771455501.173609",
+        "client_msg_id": "72745e61-d372-49ed-95f1-6638c1831c2f",
+        "text": "Hi, I'm trying to keep a Fuse app compatible with Android 15 (targetSDK 35). I'm using fuselibs and Uno (v3.0.0-beta11). Any suggestions? On a real device, it only works when I set targetSDK 34, but it stops working when I upgrade to the next target level. My guess is that there's some sort of graphics rendering issue. Any advice would be appreciated.",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "4941a376cdee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6194058202119_4941a376cdeed8448141_72.png",
+            "first_name": "Armando",
+            "real_name": "Armando",
+            "display_name": "Armando",
+            "team": "T08325737",
+            "name": "amshare",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771455501.173609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1772099593.188309",
+        "reply_users": [
+            "UL0LYUFD5"
+        ],
+        "replies": [
+            {
+                "user": "UL0LYUFD5",
+                "ts": "1772099593.188309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ll\/UA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I'm trying to keep a Fuse app compatible with Android 15 (targetSDK 35). I'm using fuselibs and Uno (v3.0.0-beta11). Any suggestions? On a real device, it only works when I set targetSDK 34, but it stops working when I upgrade to the next target level. My guess is that there's some sort of graphics rendering issue. Any advice would be appreciated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

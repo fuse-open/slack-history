@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Split Large PDF Files? - @techpamx (pam)",
+                "text": "To split large PDF files, you can use a reliable PDF splitting tool that allows you to break a single PDF into smaller, manageable documents based on page range, page count, or specific sections. Simply upload or add the PDF, choose the desired split option, and save the newly created files. For an efficient and professional solution, SysTools <https:\/\/www.systoolsgroup.com\/pdf-split.html|PDF Splitter> is the best choice. It easily handles lar…",
+                "title": "How to Split Large PDF Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-split-large-pdf-files\/8849\/2",
+                "author_name": "@techpamx (pam)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/techpamx\/45\/1246_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770810923.889189",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert JSON Document to PDF? - @Aastha04 (Aastha)",
+                "text": "There are multiple manual methods to convert JSON to PDF format, but these solutions does not provide actual results.So, I was also stuck in the same situation and my friend suggested me choose SysTools JSON Converter for converting JSON files to PDF format. I truly appreciate the software and it’s advanced features were amazing.",
+                "title": "How to Convert JSON Document to PDF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-json-document-to-pdf\/9507\/2",
+                "author_name": "@Aastha04 (Aastha)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/7ea924\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770812422.356589",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

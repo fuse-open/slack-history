@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Convert VCF File to PDF? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you need to convert your VCF (vCard) files to PDF quickly, MacSonik vCard Converter is the perfect solution. This intuitive tool allows you to add single or multiple VCF files, view contact details in advance, and convert them to PDF in just a few clicks. Simply <https:\/\/www.macsonik.com\/blog\/convert-vcf-to-pdf\/|choose PDF as the saving format>, apply filters to include only the contacts you need, select a destination path, and start the convers…",
+                "title": "Best Method to Convert VCF File to PDF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-convert-vcf-file-to-pdf\/9214\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759137060.942379",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Transfer Windows Live Mail to Gmail? - @tracehobbs",
+                "text": "To transfer Windows Live Mail to Gmail? Then try FixVare EML to Gmail Importer is an application that imports EML files into a Gmail Account. It helps you transfer bulk EML files into Gmail at once. It has a simple and user-friendly interface. The application ensures a quick and secure conversion of the EML file to Gmail. Additionally, it provides a free Demo version.",
+                "title": "How to Transfer Windows Live Mail to Gmail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-transfer-windows-live-mail-to-gmail\/9189\/3",
+                "author_name": "@tracehobbs",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/t\/3da27b\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759146688.155929",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

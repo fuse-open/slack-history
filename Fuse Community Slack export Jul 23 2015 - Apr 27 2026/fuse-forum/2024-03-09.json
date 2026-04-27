@@ -1,0 +1,46 @@
+[
+    {
+        "user": "UL0LYUFD5",
+        "type": "message",
+        "ts": "1710009160.235509",
+        "client_msg_id": "E6F67B11-DCD7-4AC3-AF2F-1E53F96A76E4",
+        "text": "Hi, upgrade to fuselibs 2.9.2. <https:\/\/github.com\/fuse-open\/fuselibs\/compare\/v2.9.1...v2.9.2|https:\/\/github.com\/fuse-open\/fuselibs\/compare\/v2.9.1...v2.9.2>",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "4941a376cdee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6194058202119_4941a376cdeed8448141_72.png",
+            "first_name": "Armando",
+            "real_name": "Armando",
+            "display_name": "Armando",
+            "team": "T08325737",
+            "name": "amshare",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709790487.350439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wL0Iv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, upgrade to fuselibs 2.9.2. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/fuse-open\/fuselibs\/compare\/v2.9.1...v2.9.2",
+                                "text": "https:\/\/github.com\/fuse-open\/fuselibs\/compare\/v2.9.1...v2.9.2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

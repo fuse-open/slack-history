@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Import PST Files to Office 365? - @rajaryson (Rohit Kumar)",
+                "text": "Thank you for sharing this information",
+                "title": "How to Import PST Files to Office 365? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-import-pst-files-to-office-365\/8906\/2",
+                "author_name": "@rajaryson (Rohit Kumar)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/rajaryson\/45\/1237_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769245413.138269",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

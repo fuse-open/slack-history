@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert Eudora Mail to Outlook PST? - @arju",
+                "text": "Thanks for sharing valuable information.",
+                "title": "How to Convert Eudora Mail to Outlook PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-eudora-mail-to-outlook-pst\/9486\/4",
+                "author_name": "@arju",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/arju\/45\/1240_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769747892.507979",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

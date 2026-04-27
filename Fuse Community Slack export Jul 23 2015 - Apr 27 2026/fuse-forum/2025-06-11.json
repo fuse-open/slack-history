@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup OneDrive to External Drive? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you want a professional method to backup OneDrive to External Drive, you can try the SysInfo OneDrive Migration Tool. Effortlessly move your data and documents from OneDrive to OneDrive for Business or personal accounts with this powerful migration tool. It provides robust backup options, allowing you to secure your OneDrive data to a local hard drive or even another cloud service. Enjoy peace …",
+                "title": "How to Backup OneDrive to External Drive? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-onedrive-to-external-drive\/8703\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1749642874.469349",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

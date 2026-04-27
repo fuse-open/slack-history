@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Way to Convert MBOX Files to PST? - @rhyslarsen",
+                "text": "Users can use the BLR Tools MBOX Converter Tool to convert MBOX files to Outlook PST format. Try the free demo edition of this tool to learn more about the software.",
+                "title": "Best Way to Convert MBOX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-way-to-convert-mbox-files-to-pst\/8918\/3",
+                "author_name": "@rhyslarsen",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/rhyslarsen\/45\/1182_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753860057.446859",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert EML Fikes to OFT? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to convert EML files to OFT, then you can try the <https:\/\/www.sysinfotools.com\/eml-converter.php|SysInfo EML Converter Tool>. This tool is incredibly flexible, letting you convert them to various formats including PST, MBOX, PDF, DOC, PNG, and MSG. It handles bulk EML conversions with ease, regardless of how many files you have or how large they are. You can also import your EML files straight into email servic…",
+                "title": "How to Convert EML Fikes to OFT? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-eml-fikes-to-oft\/8994\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753877594.893429",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

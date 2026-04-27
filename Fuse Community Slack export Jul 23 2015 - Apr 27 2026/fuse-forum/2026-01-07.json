@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Want to Convert MSG Files to MBOX? - @deepagupta",
+                "text": "You can try the MSG File Converter",
+                "title": "Want to Convert MSG Files to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/want-to-convert-msg-files-to-mbox\/9386\/3",
+                "author_name": "@deepagupta",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/a9adbd\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767775908.213659",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to MBOX? - @kennethmartin",
+                "text": "OST to MBOX Converter program is one of the most common and safe ways to transfer from OST to MBOX. It lets you move numerous OST files to MBOX. This app lets you convert files quickly without needing any third-party tools. You won’t have any trouble using the software. More info:- <https:\/\/www.toolsbaer.com\/ost-to-mbox-conversion\/|OST to MBOX Conversion to Export OST to Thunderbird MBOX>",
+                "title": "How to Convert OST Files to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-mbox\/8754\/6",
+                "author_name": "@kennethmartin",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/k\/a6a055\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767853583.825039",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to MBOX? - @bobbyroy",
+                "text": "WholeClear OST to MBOX Converter program is one of the most common and safe ways to transfer from OST to MBOX. It lets you move numerous OST files to MBOX. This app lets you convert files quickly without needing any third-party tools. You won’t have any trouble using the software.",
+                "title": "How to Convert OST Files to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-mbox\/8754\/7",
+                "author_name": "@bobbyroy",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/ea666f\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767853834.394109",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

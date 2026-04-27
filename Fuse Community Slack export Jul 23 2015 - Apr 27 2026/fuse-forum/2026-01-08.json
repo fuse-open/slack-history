@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Method to Import PST File to BlueMail? - @ialexx (Alex Harvey)",
+                "text": "Thanks for sharing this solution! This explanation was really helpful and saved me a lot of time. Appreciate you pointing out the workaround and tools to use.",
+                "title": "Easy Method to Import PST File to BlueMail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-method-to-import-pst-file-to-bluemail\/9350\/2",
+                "author_name": "@ialexx (Alex Harvey)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/ialexx\/45\/1152_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767870383.955089",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Method to Backup Gmail Account Data - @ialexx (Alex Harvey)",
+                "text": "If you are looking for an easy method to back up Gmail email data, the Shoviv Gmail Backup Tool is a reliable solution. This utility allows users to securely download and save Gmail emails to multiple file formats, including PST, MBOX, EML, and MSG. It supports selective backup using date range and folder filters, ensuring only required data is saved. The tool maintains email integrity, folder hie…",
+                "title": "Easy Method to Backup Gmail Account Data [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-method-to-backup-gmail-account-data\/9016\/2",
+                "author_name": "@ialexx (Alex Harvey)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/ialexx\/45\/1152_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767870513.826379",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to VCF? - @anamika",
+                "text": "To convert OST files to VCF, first ensure the OST file is accessible in Microsoft Outlook. Export contacts by going to File &gt; Open &amp; Export &gt; Import\/Export and choose Export to a file, then select Comma Separated Values (CSV). Open the CSV file and convert it to VCF format using a reliable CSV to VCF converter. Alternatively, use a professional OST to VCF converter tool to directly extract and con…",
+                "title": "How to Convert OST Files to VCF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-vcf\/8924\/4",
+                "author_name": "@anamika",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/anamika\/45\/1228_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767942144.260769",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Way to Convert MBOX Files to PST? - @matthewpark (Mathew Park)",
+                "text": "Thankyou for giving this solution.",
+                "title": "Best Way to Convert MBOX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-way-to-convert-mbox-files-to-pst\/8918\/2",
+                "author_name": "@matthewpark (Mathew Park)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/3bc359\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753779454.822549",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Way to Convert OLM Files to PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to convert OLM files to PST, you can try the <https:\/\/www.sysinfotools.com\/recovery\/olm-to-pst-converter.php|SysInfo OLM to PST Converter>. This professional-grade tool exports every OLM file object, from emails and calendars to contacts, journals, and tasks. It converts OLM files into multiple formats like PST, MBOX, EML, and MSG with ease. Designed specifically for transforming OLM archive mail folders into PST, it also offers …",
+                "title": "Easy Way to Convert OLM Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-way-to-convert-olm-files-to-pst\/8981\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753788670.004589",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

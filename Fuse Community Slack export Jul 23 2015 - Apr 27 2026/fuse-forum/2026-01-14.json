@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Method to Convert MBOX Files to PST? - @rishi",
+                "text": "Thank you for these insights; they are very helpful.",
+                "title": "Easy Method to Convert MBOX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-method-to-convert-mbox-files-to-pst\/9254\/2",
+                "author_name": "@rishi",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/r\/90db22\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1768459220.234909",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

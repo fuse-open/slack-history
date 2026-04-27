@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Need Expert Guidance on API Integration in Fuse - @elinasadiq",
+                "text": "Hello everyone :sunglasses:,\n\nI’m diving headfirst into a new mobile app project using Fuse and am eager to unlock the full potential of my app through seamless API integration. However, I’m seeking expert guidance to navigate this complex territory effectively.\n\nI’m particularly interested in insights on the following:\n\nAPI Integration Best Practices; What are the most efficient methods to connect external…",
+                "title": "Need Expert Guidance on API Integration in Fuse [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/need-expert-guidance-on-api-integration-in-fuse\/8443\/1",
+                "author_name": "@elinasadiq",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/elinasadiq\/45\/1125_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1721992341.451219",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup AOL Mail Account Data? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to backup AOL mail Account data, then you can use the <https:\/\/www.sysinfotools.com\/aol-backup.php|SysInfo AOL Mail Backup Tool>. It supports exporting your AOL emails to multiple formats such as PST, PDF, CSV, and MBOX, and facilitates direct migration to various web and cloud-based email services. Key features include intelligent attachment handling, a customizable date range filter, preservation of your orig…",
+                "title": "How to Backup AOL Mail Account Data? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-aol-mail-account-data\/9020\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1754543559.199909",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

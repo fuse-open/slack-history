@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1771073075.637719",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1772387000.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1771073075.637719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1772387000.318409",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1772387000.318409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1771073073,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/docs] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/ljharb\/qs|qs> from 6.14.1 to 6.14.2.\nChangelog \n_Sourced from <https:\/\/github.com\/ljharb\/qs\/blob\/main\/CHANGELOG.md|qs's changelog>._\n\n&gt; **6.14.2*\n&gt; \n&gt; • [Fix] `parse`: mark overflow objects for indexed notation exceeding `arrayLimit` (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/546|#546>)\n&gt; • [Fix] `arrayLimit` means max count, not max index, in `combine`\/`merge`\/`parseArrayValue`\n&gt; • [Fix] `parse`: throw on `arrayLimit` exceeded with indexed notation when `throwOnLimitExceeded` is true (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/529|#529>)\n&gt; • [Fix] `parse`: enforce `arrayLimit` on `comma`-parsed values\n&gt; • [Fix] `parse`: fix error message to reflect arrayLimit as max index; remove extraneous comments (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/545|#545>)\n&gt; • [Robustness] avoid `.push`, use `void`\n&gt; • [readme] document that `addQueryPrefix` does not add `?` to empty output (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/418|#418>)\n&gt; • [readme] clarify `parseArrays` and `arrayLimit` documentation (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/543|#543>)\n&gt; • [readme] replace runkit CI badge with <http:\/\/shields.io|shields.io> check-runs badge\n&gt; • [meta] fix changelog typo (`arrayLength` → `arrayLimit`)\n&gt; • [actions] fix rebase workflow permissions\n\nCommits \n• <https:\/\/github.com\/ljharb\/qs\/commit\/bdcf0c7f82387c18ac8fabfccd2f440645cef47b|`bdcf0c7`> v6.14.2\n• <https:\/\/github.com\/ljharb\/qs\/commit\/294db90c812ddbe7d7a35d5687c505fd21a2d6a2|`294db90`> [readme] document that `addQueryPrefix` does not add `?` to empty output\n• <https:\/\/github.com\/ljharb\/qs\/commit\/5c308e5516c270a78caa6f278465914090f91ec6|`5c308e5`> [readme] clarify `parseArrays` and `arrayLimit` documentation\n• <https:\/\/github.com\/ljharb\/qs\/commit\/6addf8cf738d529c54d91f6f3ffb6c1be91bbfdc|`6addf8c`> [Fix] `parse`: mark overflow objects for indexed notation exceeding `arrayLimit`\n• <https:\/\/github.com\/ljharb\/qs\/commit\/cfc108f662326d6ab540f3545ef0b832baf83cdf|`cfc108f`> [Fix] `arrayLimit` means max count, not max index, in `combine`\/`merge`\/`pars...\n• <https:\/\/github.com\/ljharb\/qs\/commit\/febb64442a80e49200211fa38d3c96b58024ac77|`febb644`> [Fix] `parse`: throw on `arrayLimit` exceeded with indexed notation when `thr...\n• <https:\/\/github.com\/ljharb\/qs\/commit\/f6a7abff1f13d644db9b05fe4f2c98ada6bf8482|`f6a7abf`> [Fix] `parse`: enforce `arrayLimit` on `comma`-parsed values\n• <https:\/\/github.com\/ljharb\/qs\/commit\/fbc5206c25b4d1851cea683f02c10756c521d15a|`fbc5206`> [Fix] `parse`: fix error message to reflect arrayLimit as max index; remove e...\n• <https:\/\/github.com\/ljharb\/qs\/commit\/1b9a8b4e78c6aff4c22fa559107227f02fd0216a|`1b9a8b4`> [actions] fix rebase workflow permissions\n• <https:\/\/github.com\/ljharb\/qs\/commit\/2a35775614e0fb46ac8a3060201a32a7c23a7fda|`2a35775`> [meta] fix changelog typo (`arrayLength` → `arrayLimit`)\n• Additional commits viewable in <https:\/\/github.com\/ljharb\/qs\/compare\/v6.14.1...v6.14.2|compare view>\n  \n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|Dependabot compatibility score>\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n---\n\nDependabot commands and options   \nYou can trigger Dependabot actions by commenting on this PR:\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \nYou can disable automated security fix PRs for this repo from the <https:\/\/github.com\/fuse-open\/docs\/network\/alerts|Security Alerts page>.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/fuse-open\/docs\/pull\/87|#87 build(deps-dev): bump qs from 6.14.1 to 6.14.2>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/docs|fuse-open\/docs>",
+                "fields": [
+                    {
+                        "value": "dependencies, javascript",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;docs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:131993216,&amp;amp;quot;number&amp;amp;quot;:87,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/docs\/pull\/87&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump qs from 6.14.1 to 6.14.2&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

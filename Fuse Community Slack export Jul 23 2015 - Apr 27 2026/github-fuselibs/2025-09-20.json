@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1758383010.610229",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1760044491.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1758383010.610229",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1760045710.513599",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1758402271.735099"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1760044381.338779"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1760044491.032939"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1760045710.513599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1758383007,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "Add new property called `Symbol` to the Image component. Users can fill with string symbol name that will be rendered become image icon.\n\nThe Symbol Mapping feature provides a comprehensive cross-platform mapping system between iOS SF Symbols and Android Material Design Icons. This allows developers to use consistent iconography across both platforms while maintaining native look and feel.\n\n### Symbol Naming Convention\n\nSymbols follow iOS SF Symbol naming conventions:\n\n• Use lowercase letters and dots for separators: `arrow.left`, `person.circle`\n• Fill variants end with `.fill`: `heart.fill`, `star.fill`\n• Circle variants include `.circle`: `info.circle`, `plus.circle`\n• Badge variants include `.badge`: `bell.badge`, `envelope.badge`\n\n## Basic Usage\n\n### In UX Markup\n\n&lt;Image Symbol=\"heart\" \/&gt;\n&lt;Image Symbol=\"star.fill\" \/&gt;\n&lt;Image Symbol=\"house\" \/&gt;\n\n## Symbol Categories\n\n### Core Actions &amp; Navigation\n\n• *Common Actions*: `plus`, `minus`, `trash`, `edit`, `search`, `share`\n• *Navigation*: `arrow.left`, `arrow.right`, `chevron.up`, `chevron.down`\n• *Media Control*: `play`, `pause`, `stop`, `volume.up`, `volume.down`\n\n### Communication &amp; Social\n\n• *Messaging*: `message`, `envelope`, `bubble.left`, `phone`\n• *Social*: `person`, `person.2`, `heart`, `star`, `thumbsup`\n• *Video Calling*: `video`, `facetime`, `shareplay`\n\n### Status &amp; Indicators\n\n• *Alerts*: `info.circle`, `warning.triangle`, `error.circle`\n• *Progress*: `checkmark`, `xmark`, `hourglass`, `timer`\n• *Notifications*: `bell`, `bell.slash`, `flame`\n\n### Business &amp; Professional\n\n• *Office*: `briefcase`, `folder`, `doc`, `signature`\n• *Finance*: `dollarsign.circle`, `creditcard`, `chart.bar`\n• *Legal*: `scale`, `building.columns`, `seal`\n\n### Health &amp; Medical\n\n• *Healthcare*: `heart.text.square`, `cross.case`, `stethoscope`\n• *Fitness*: `figure.run`, `dumbbell`, `figure.yoga`\n• *Medical Equipment*: `pills`, `syringe`, `thermometer`\n\n### Technology &amp; Development\n\n• *Devices*: `iphone`, `laptop`, `desktop`, `applewatch`\n• *Connectivity*: `wifi`, `bluetooth`, `antenna`\n• *Development*: `code`, `terminal`, `function`, `atom`\n\n### Transportation &amp; Travel\n\n• *Vehicles*: `car`, `airplane`, `bicycle`, `train`\n• *Travel*: `suitcase`, `map`, `location`, `compass`\n• *Places*: `house`, `building`, `hotel`, `restaurant`\n\n### Entertainment &amp; Media\n\n• *Gaming*: `gamecontroller`, `dice`, `trophy`\n• *Music*: `music.note`, `guitar`, `speaker`\n• *Photography*: `camera`, `photo`, `video`\n\n### Weather &amp; Environment\n\n• *Weather*: `sun.max`, `cloud`, `rain`, `snow`\n• *Environment*: `leaf`, `tree`, `drop`, `wind`\n• *Climate*: `thermometer`, `humidity`, `hurricane`\n\n### Shopping &amp; Commerce\n\n• *Shopping*: `cart`, `bag`, `basket`, `storefront`\n• *Payment*: `creditcard`, `banknote`, `receipt`\n• *Commerce*: `tag`, `percent`, `building.2`\n\n### Home &amp; Living\n\n• *Furniture*: `sofa`, `chair`, `bed.double`\n• *Appliances*: `refrigerator`, `oven`, `washer`\n• *Home Systems*: `air.conditioner`, `heater`, `lightbulb`\n\n### Sports &amp; Recreation\n\n• *Sports*: `football`, `basketball`, `tennis.racket`\n• *Activities*: `figure.skiing`, `figure.swimming`, `bicycle`\n• *Achievement*: `trophy`, `medal`, `crown`\n\n### Education &amp; Science\n\n• *Education*: `book`, `graduationcap`, `studentdesk`\n• *Science*: `atom`, `flask`, `microscope`\n• *Mathematics*: `function`, `calculator`, `chart.pie`\n\n### Security &amp; Privacy\n\n• *Security*: `lock`, `key`, `shield`, `eye`\n• *Authentication*: `touchid`, `faceid`, `qrcode`\n• *Privacy*: `hand.raised`, `eye.slash`, `lock.shield`\n\n## Symbol Variants\n\n### Fill Variants\n\nMany symbols support fill variants for different visual styles:\n\n&lt;!-- Outline version --&gt;\n&lt;Image Symbol=\"heart\" \/&gt;\n&lt;!-- Filled version --&gt;\n&lt;Image Symbol=\"heart.fill\" \/&gt;\n\n### Circle Variants\n\nSome symbols include circle background variants:\n\n&lt;Image Symbol=\"info.circle\" \/&gt;\n&lt;Image Symbol=\"checkmark.circle\" \/&gt;\n&lt;Image Symbol=\"xmark.circle\" \/&gt;\n\n### Badge Variants\n\nSymbols with notification badges or indicators:\n\n&lt;Image Symbol=\"bell.badge\" \/&gt;\n&lt;Image Symbol=\"envelope.badge\" \/&gt;\n&lt;Image Symbol=\"cart.badge.plus\" \/&gt;\n\n### Complete Symbol List\n\nThe mapping includes over 1,000 symbols across these categories:\n\n• *Actions* (60+ symbols): Basic user actions and operations\n• *Navigation* (40+ symbols): Directional and navigation elements\n• *Communication* (50+ symbols): Messaging, calling, and social features\n• *Media* (45+ symbols): Audio, video, and entertainment controls\n• *Status* (35+ symbols): Alerts, notifications, and indicators\n• *Security* (25+ symbols): Privacy, authentication, and protection\n• *Health* (30+ symbols): Medical, fitness, and wellness\n• *Business* (40+ symbols): Professional and office functions\n• *Technology* (55+ symbols): Devices, development, and connectivity\n• *Transportation* (25+ symbols): Vehicles and travel\n• *Weather* (20+ symbols): Climate and environmental conditions\n• *Shopping* (20+ symbols): Commerce and retail\n• *Home* (35+ symbols): Household and living\n• *Sports* (25+ symbols): Recreation and athletics\n• *Education* (30+ symbols): Learning and academic\n• *International* (15+ symbols): Global and language features\n• *And many more specialized categories...*\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1513|#1513 Add Icon Symbols using SF Symbols on iOS and Material Symbols on Android on Image>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1513,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1513&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Add Icon Symbols using SF Symbols on iOS and Material Symbols on Android on Image&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1758402271.735099",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1758383010.610229",
+        "parent_user_id": "U024ET51BLG",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1758402268,
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] Comment on #1513",
+                "text": "Thanks <https:\/\/github.com\/ichan-mb|@ichan-mb> waiting merge",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1513#issuecomment-3315256659|Comment> on pull request by <https:\/\/github.com\/mvondoyannick|mvondoyannick>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1513|#1513 Add Icon Symbols using SF Symbols on iOS and Material Symbols on Android on Image>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

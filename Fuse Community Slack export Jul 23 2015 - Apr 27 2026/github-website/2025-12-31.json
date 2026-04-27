@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1767188730.466049",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1767455630.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1767188730.466049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1767455629.639879",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1767455629.639879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1767188727,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/docs] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/ljharb\/qs|qs> from 6.11.2 to 6.14.1.\n\nChangelog \n\n_Sourced from <https:\/\/github.com\/ljharb\/qs\/blob\/main\/CHANGELOG.md|qs's changelog>._\n\n&gt; ## *6.14.1*\n&gt; \n&gt; • [Fix] ensure arrayLength applies to `[]` notation as well\n&gt; • [Fix] `parse`: when a custom decoder returns `null` for a key, ignore that key\n&gt; • [Refactor] `parse`: extract key segment splitting helper\n&gt; • [meta] add threat model\n&gt; • [actions] add workflow permissions\n&gt; • [Tests] `stringify`: increase coverage\n&gt; • [Dev Deps] update `eslint`, `@ljharb\/eslint-config`, `npmignore`, `es-value-fixtures`, `for-each`, `object-inspect`\n&gt; \n&gt; ## *6.14.0*\n&gt; \n&gt; • [New] `parse`: add `throwOnParameterLimitExceeded` option (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/517|#517>)\n&gt; • [Refactor] `parse`: use `utils.combine` more\n&gt; • [patch] `parse`: add explicit `throwOnLimitExceeded` default\n&gt; • [actions] use shared action; re-add finishers\n&gt; • [meta] Fix changelog formatting bug\n&gt; • [Deps] update `side-channel`\n&gt; • [Dev Deps] update `es-value-fixtures`, `has-bigints`, `has-proto`, `has-symbols`\n&gt; • [Tests] increase coverage\n&gt; \n&gt; ## *6.13.1*\n&gt; \n&gt; • [Fix] `stringify`: avoid a crash when a `filter` key is `null`\n&gt; • [Fix] `utils.merge`: functions should not be stringified into keys\n&gt; • [Fix] `parse`: avoid a crash with interpretNumericEntities: true, comma: true, and iso charset\n&gt; • [Fix] `stringify`: ensure a non-string `filter` does not crash\n&gt; • [Refactor] use `__proto__` syntax instead of `Object.create` for null objects\n&gt; • [Refactor] misc cleanup\n&gt; • [Tests] `utils.merge`: add some coverage\n&gt; • [Tests] fix a test case\n&gt; • [actions] split out node 10-20, and 20+\n&gt; • [Dev Deps] update `es-value-fixtures`, `mock-property`, `object-inspect`, `tape`\n&gt; \n&gt; ## *6.13.0*\n&gt; \n&gt; • [New] `parse`: add `strictDepth` option (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/511|#511>)\n&gt; • [Tests] use `npm audit` instead of `aud`\n&gt; \n&gt; ## *6.12.3*\n&gt; \n&gt; • [Fix] `parse`: properly account for `strictNullHandling` when `allowEmptyArrays`\n&gt; • [meta] fix changelog indentation\n&gt; \n&gt; ## *6.12.2*\n&gt; \n&gt; • [Fix] `parse`: parse encoded square brackets (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/506|#506>)\n&gt; • [readme] add CII best practices badge\n&gt; \n&gt; ## *6.12.1*\n&gt; \n&gt; • [Fix] `parse`: Disable `decodeDotInKeys` by default to restore previous behavior (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/501|#501>)\n&gt; • [Performance] `utils`: Optimize performance under large data volumes, reduce memory usage, and speed up processing (<https:\/\/redirect.github.com\/ljharb\/qs\/issues\/502|#502>)\n&gt; • [Refactor] `utils`: use `+=`\n&gt; • [Tests] increase coverage\n&gt; \n&gt; ## *6.12.0*\n\n... (truncated)\n\nCommits \n• <https:\/\/github.com\/ljharb\/qs\/commit\/3fa11a5f643c76896387bd2d86904a2d0141fdf7|`3fa11a5`> v6.14.1\n• <https:\/\/github.com\/ljharb\/qs\/commit\/a62670423c1ccab0dd83c621bfb98c7c024e314d|`a626704`> [Dev Deps] update `npmignore`\n• <https:\/\/github.com\/ljharb\/qs\/commit\/3086902ecf7f088d0d1803887643ac6c03d415b9|`3086902`> [Fix] ensure arrayLength applies to `[]` notation as well\n• <https:\/\/github.com\/ljharb\/qs\/commit\/fc7930e86c2264c1568c9f5606830e19b0bc2af2|`fc7930e`> [Dev Deps] update `eslint`, `@ljharb\/eslint-config`\n• <https:\/\/github.com\/ljharb\/qs\/commit\/0b06aac566abee45ef0327667a7cc89e7aed8b58|`0b06aac`> [Dev Deps] update `@ljharb\/eslint-config`\n• <https:\/\/github.com\/ljharb\/qs\/commit\/64951f6200a1fb72cc003c6e8226dde3d2ef591f|`64951f6`> [Refactor] `parse`: extract key segment splitting helper\n• <https:\/\/github.com\/ljharb\/qs\/commit\/e1bd2599cdff4c936ea52fb1f16f921cbe7aa88c|`e1bd259`> [Dev Deps] update `@ljharb\/eslint-config`\n• <https:\/\/github.com\/ljharb\/qs\/commit\/f4b3d39709fef6ddbd85128d1ba4c6b566c4902e|`f4b3d39`> [eslint] add eslint 9 optional peer dep\n• <https:\/\/github.com\/ljharb\/qs\/commit\/6e94d9596ca50dffafcef40a5f64eca89962cf34|`6e94d95`> [Dev Deps] update `eslint`, `@ljharb\/eslint-config`, `npmignore`\n• <https:\/\/github.com\/ljharb\/qs\/commit\/973dc3c51c86da9f4e30edeb4b1725158d439102|`973dc3c`> [actions] add workflow permissions\n• Additional commits viewable in <https:\/\/github.com\/ljharb\/qs\/compare\/v6.11.2...v6.14.1|compare view>\n  \n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|[Dependabot compatibility score](https:\/\/camo.githubusercontent.com\/e672af549d6c7a539c18763bf7b453b72488599970d9883ab13b265340443f5b\/68747470733a2f2f646570656e6461626f742d6261646765732e6769746875626170702e636f6d2f6261646765732f636f6d7061746962696c6974795f73636f72653f646570656e64656e63792d6e616d653d7173267061636b6167652d6d616e616765723d6e706d5f616e645f7961726e2670726576696f75732d76657273696f6e3d362e31312e32266e65772d76657273696f6e3d362e31342e31)>\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n---\n\nDependabot commands and options   \n\nYou can trigger Dependabot actions by commenting on this PR:\n\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot merge` will merge this PR after your CI passes on it\n• `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n• `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n• `@dependabot reopen` will reopen this PR if it is closed\n• `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \nYou can disable automated security fix PRs for this repo from the <https:\/\/github.com\/fuse-open\/docs\/network\/alerts|Security Alerts page>.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/fuse-open\/docs\/pull\/85|#85 build(deps-dev): bump qs from 6.11.2 to 6.14.1>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/docs|fuse-open\/docs>",
+                "fields": [
+                    {
+                        "value": "dependencies, javascript",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;docs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:131993216,&amp;amp;quot;number&amp;amp;quot;:85,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/docs\/pull\/85&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump qs from 6.11.2 to 6.14.1&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

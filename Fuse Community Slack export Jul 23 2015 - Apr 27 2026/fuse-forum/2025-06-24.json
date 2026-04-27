@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Recover SQL Database Server? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to recover SQL database server, you can try SysInfo SQL Database Recovery. It recovers all database objects (tables, keys, views, triggers, etc.) from MyISAM and InnoDB engines. The tool offers Standard, Advanced, and Deep scanning modes, allows data preview, supports unlimited file sizes, and enables saving recovery snapshots. Recovered data can be saved to a new S…",
+                "title": "How to Recover SQL Database Server? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-recover-sql-database-server\/8746\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750764059.914049",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert MBOX to MSG Format? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to convert MBOX files to MSG, then you can try the SysInfo MBOX Converter Tool. It converts single or multiple MBOX files simultaneously without data loss. It allows the export of MBOX files to PST, EML, MSG, CSV, and other formats in a single click. It also offers the ability to import MBOX files into email clients such as Gmail, Hotmail, IMAP, iCloud, and others. …",
+                "title": "How to Convert MBOX to MSG Format? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-mbox-to-msg-format\/8748\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750833279.635499",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

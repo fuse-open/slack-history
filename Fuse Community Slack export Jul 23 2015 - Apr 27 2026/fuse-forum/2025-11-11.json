@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Guide to Convert ICS File to Excel? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The MacSonik ICS Converter Tool provides an efficient solution to convert ICS files to Excel format with complete accuracy. It enables users to export multiple ICS calendar files into Excel (XLS\/XLSX) while retaining essential details such as date, time, subject, and description. Along with Excel, the software supports various output formats like PDF, CSV, PST, MBOX, HTML, TXT, MSG, EML, and more.…",
+                "title": "Easy Guide to Convert ICS File to Excel? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-guide-to-convert-ics-file-to-excel\/9313\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1762863100.372579",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

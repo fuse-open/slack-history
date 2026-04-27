@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Recover Emails From Corrupt OST Files? - @sanmart",
+                "text": "Thanks for the information. It helps.",
+                "title": "How to Recover Emails From Corrupt OST Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-recover-emails-from-corrupt-ost-files\/9129\/2",
+                "author_name": "@sanmart",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/bb73d2\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1757419266.894839",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert MBOX Files to EML on Mac? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a professional method to convert MBOX files to EML on Mac, you can try the <https:\/\/www.macsonik.com\/mbox\/converter\/|MacSonik MBOX Converter>. It enables users to convert MBOX files into formats like PST, EML, EMLX, PDF, MSG, and HTML, along with direct migration to Gmail, Yahoo, Office 365, Zoho Mail, IMAP, and more. It preserves folder hierarchy, ensures complete data integrity, removes duplicates, and provides a…",
+                "title": "How to Convert MBOX Files to EML on Mac? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-mbox-files-to-eml-on-mac\/9140\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1757421693.418489",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

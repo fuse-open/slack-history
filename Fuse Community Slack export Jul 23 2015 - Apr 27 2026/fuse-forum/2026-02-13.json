@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to MBOX? - @SlapsBlobby894 (MANDY )",
+                "text": "SYSessential software provides an effective and secure tool for converting Outlook emails into PST format, allowing data migration between these programs using Microsoft Outlook. With no data loss, this tool can export any type of Outlook email message file, including MSG, MBOX, EMLX, and HTML, into a different format. The different file formats will also be converted into PST by this software so …",
+                "title": "How to Convert OST Files to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-mbox\/8754\/8",
+                "author_name": "@SlapsBlobby894 (MANDY )",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/a183cd\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770973509.434749",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Export Google Chat to PDF? - @mohdkaif002 (Mohd Kaif)",
+                "text": "To <https:\/\/www.macsonik.com\/blog\/export-google-chat-to-pdf\/|export Google Chat conversations as PDFs>, first retrieve your chat archive through Google Takeout, which delivers the data in JSON format. After extracting the archive, load the files into MacSonik JSON File Converter. The converter’s GUI allows you to batch import multiple chat files, apply date-range filters to isolate relevant conversations, and configure PDF as the output format. Once conve…",
+                "title": "Best Method to Export Google Chat to PDF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-export-google-chat-to-pdf\/9555\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770978299.121549",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Easy migration tool from Lotus Notes to Office 365 - @davidmiller (Weeom Software)",
+                "text": "More and more companies are moving towards seeking cloud technology, and companies are bulk-migrating their email infrastructure to Office 365. The majority of the companies have used HCL Lotus Notes to host their email environment for decades and now seek an easy process to shift toward Microsoft’s cloud infrastructure. It is not an easy task and involves proper planning for maintaining data inte…",
+                "title": "Easy migration tool from Lotus Notes to Office 365 [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-migration-tool-from-lotus-notes-to-office-365\/8579\/1",
+                "author_name": "@davidmiller (Weeom Software)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/davidmiller\/45\/1133_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1739957527.102749",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "e0e0e0",
+                "fallback": "Migration tool from Lotus Notes to Office 365 - @davidmiller (Weeom Software)",
+                "text": "More and more companies are moving towards seeking cloud technology, and companies are bulk-migrating their email infrastructure to Office 365. The majority of the companies have used HCL Lotus Notes to host their email environment for decades and now seek an easy process to shift toward Microsoft’s cloud infrastructure. It is not an easy task and involves proper planning for maintaining data inte…",
+                "title": "Migration tool from Lotus Notes to Office 365 [Fuse Professional]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migration-tool-from-lotus-notes-to-office-365\/8580\/1",
+                "author_name": "@davidmiller (Weeom Software)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/davidmiller\/45\/1133_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1739957915.248779",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

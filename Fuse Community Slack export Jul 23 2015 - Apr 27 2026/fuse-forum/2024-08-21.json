@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Android 12+ app icon splash screen - @Enrico",
+                "text": "Since Android 12 a splash screen is now enforced during every cold start of your application. By default, the app displays the icon and dismisses the splash screen when the new frame is available.\n\n<https:\/\/developer.android.com\/develop\/ui\/views\/launch\/splash-screen|Android docs> show how to manage this new feature with Android Studio and Java programming, but it is possible to do the same with Fuse?",
+                "title": "Android 12+ app icon splash screen [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/android-12-app-icon-splash-screen\/8444\/1",
+                "author_name": "@Enrico",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/enrico\/45\/144_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1724250224.690499",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

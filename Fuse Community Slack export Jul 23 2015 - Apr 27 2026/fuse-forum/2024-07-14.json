@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Custom splash\/launch screen for Android - @elinasadiq",
+                "text": "Hello,\n\nYou can create separate files or configurations specifically for splash screen customization. Use build hooks or scripts provided by Uno Platform, your customizations are applied during the build process, safeguarding them from being overwritten when you run “uno build android.” For precise guidance, consult Uno Platform’s documentation or seek advice from their community forums to impleme…",
+                "title": "Custom splash\/launch screen for Android [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/custom-splash-launch-screen-for-android\/8369\/3",
+                "author_name": "@elinasadiq",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/elinasadiq\/45\/1125_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1721024175.125679",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

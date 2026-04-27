@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Which Is The Most Accurate Tool to Migrate Comcast Email to Office 365 - @Satyam (satyam tiwari)",
+                "text": "Looking for a 100% accurate Backup tool to migrate Comcast Email to Office 365, you can use IMAP Backup Tool. This tool does not disrupt the data security and ensures the maintained file structure after backup. It is compatible with versions of Mac OS. It includes effective features like specific date range backup, removing or freezing up data from mailboxes after backup, separate PDF for attachme…",
+                "title": "Which Is The Most Accurate Tool to Migrate Comcast Email to Office 365 [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/which-is-the-most-accurate-tool-to-migrate-comcast-email-to-office-365\/9405\/1",
+                "author_name": "@Satyam (satyam tiwari)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/ecc23a\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1766743096.983839",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

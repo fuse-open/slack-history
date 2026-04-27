@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Merge Multiple PST Files into Single PST File? - @jonyjackson",
+                "text": "Merge multiple PST files into a single PST file with the help of the Softaken Merge PST Tool, which is easy to use for all users without hassle.",
+                "title": "How to Merge Multiple PST Files into Single PST File? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-merge-multiple-pst-files-into-single-pst-file\/8922\/5",
+                "author_name": "@jonyjackson",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/f4b2a3\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767002316.848649",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Way to Convert MBOX Files to PST? - @bettysvi",
+                "text": "If you want to <https:\/\/yotasoftware.com\/mbox-converter\/pst.html|convert MBOX to PST> in bulk, Yota MBOX Converter is one of the most reliable solutions. The software processes single and multiple MBOX files simultaneously, saving time and effort. It exports complete mailbox data into PST format without any data loss. The utility ensures 100% accuracy and preserves email structure. It is compatible with all Microsoft Outlook versions and supports …",
+                "title": "Best Way to Convert MBOX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-way-to-convert-mbox-files-to-pst\/8918\/5",
+                "author_name": "@bettysvi",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/7ea924\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767021190.654509",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert Eudora Mail to Outlook PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "To convert Eudora Mail to Outlook PST, the most reliable approach is to use the MacSonik MBOX Converter, as Eudora stores emails in MBX\/MBOX format, which Outlook does not support directly. With this tool, you first locate your Eudora mailbox files (such as In.mbx, Out.mbx, Sent.mbx) on your system and then add them to the MacSonik MBOX Converter using the Add File or Add Folder option. After load…",
+                "title": "How to Convert Eudora Mail to Outlook PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-eudora-mail-to-outlook-pst\/9486\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1768985807.757459",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Transfer Emails from One Gmail Account to Another? - @EmailMigrationExpert (SidHeart)",
+                "text": "If you’re looking for reliable ways to transfer emails between Gmail accounts or any other providers, check out SysTools <https:\/\/www.systoolsgroup.com\/email-migration.html|Email Migration Tool>. It handle bulk transfers, preserve folder structures, attachments, and metadata without data loss, and support IMAP-based migrations for seamless results. For a step-by-step guide on various methods (free and automated), see <https:\/\/www.systoolsgroup.com\/how-to\/transfer-email-data-to-another-account\/|how to transfer email to another…>",
+                "title": "Best Method to Transfer Emails from One Gmail Account to Another? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-transfer-emails-from-one-gmail-account-to-another\/9200\/2",
+                "author_name": "@EmailMigrationExpert (SidHeart)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/5daacb\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769063974.129089",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Remove Duplicate From CSV File? - @FixingEmail (Rob Woods)",
+                "text": "Thanks for the tip. I was looking for it.",
+                "title": "How to Remove Duplicate From CSV File? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-remove-duplicate-from-csv-file\/9427\/2",
+                "author_name": "@FixingEmail (Rob Woods)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/f04885\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769064446.387969",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

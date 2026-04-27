@@ -1,0 +1,257 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1718730919.746969",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1718443108.472539",
+        "parent_user_id": "U024ET51BLG",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718730917,
+                "color": "36a64f",
+                "fallback": "[fuse-open\/fuselibs] Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/ichan-mb|ichan-mb's> pull request",
+                "text": "Nice!",
+                "pretext": "Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/ichan-mb|ichan-mb's> pull request",
+                "title": "Review on #1496 Fix Android CameraView not showing on Android 13 or later because of permissions",
+                "title_link": "https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1496#pullrequestreview-2126087112",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1718730939.087779",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 3 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/7ce5b7abeeb7b2ce3d88da3939926a5d42fe6288|7ce5b7ab>` - fix memory leaks\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/77eb68f42112b9595fd2711d4f4ffa0617cf6037|77eb68f4>` - fix Android CameraView permission for Android 13 later\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/f867f48b5b34c4e89b7a7feee4f662f07bae7e1e|f867f48b>` - Merge pull request #1496 from ichan-mb\/develop",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/9218c3e790a1...f867f48b5b34|3 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B023X8DUEHJ",
+        "thread_ts": "1718443108.472539",
+        "root": {
+            "user": "U024ET51BLG",
+            "type": "message",
+            "ts": "1718443108.472539",
+            "edited": {
+                "user": "B023X8DUEHJ",
+                "ts": "1718730939.000000"
+            },
+            "bot_id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T08325737",
+            "bot_profile": {
+                "id": "B023X8DUEHJ",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U024ET51BLG",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1622616203,
+                "team_id": "T08325737"
+            },
+            "thread_ts": "1718443108.472539",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1718730939.378589",
+            "reply_users": [
+                "U024ET51BLG"
+            ],
+            "replies": [
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1718730919.746969"
+                },
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1718730939.378589"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1718443106,
+                    "color": "6f42c1",
+                    "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                    "text": "This PR also fix memory leak on `&lt;Video&gt;` component reported on android Logcat because FileDescriptor is not closed.\n\nThis PR contains:\n\n☐ Changelog\n☐ Documentation\n☐ Tests",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                    "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1496|#1496 Fix Android CameraView not showing on Android 13 or later because of permissions>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/mortend|@mortend>",
+                            "title": "Reviewers",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1496,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1496&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Fix Android CameraView not showing on Android 13 or later because of permissions&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1718730939.378589",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1718443106,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request merged by mortend",
+                "pretext": "Pull request merged by <https:\/\/github.com\/mortend|mortend>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1496|#1496 Fix Android CameraView not showing on Android 13 or later because of permissions>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>"
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1718731372.669299",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 4 new commits pushed to _refs\/tags\/v2.9.3_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/9803760e8e337d4b6b567cfb64132a42e332a81b|9803760e>` - fix memory leaks\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/3b7373b8a90f59751c0c5e77b52abb56f93ba0a5|3b7373b8>` - fix Android CameraView permission for Android 13 later\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/845914cbeafa59a0479004ff0b57aaae00053b26|845914cb>` - CHANGELOG: add v2.9.3 changes\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/c7023baf632c76464c62e3cec53378a56b21444a|c7023baf>` - 2.9.3",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/9803760e8e33^...c7023baf632c|4 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/refs\/tags\/v2.9.3|refs\/tags\/v2.9.3>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1718731372.740159",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "28a745",
+                "fallback": "[fuse-open\/fuselibs] tag v2.9.3 created by mortend",
+                "text": "<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/v2.9.3|v2.9.3>",
+                "pretext": "Tag created by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

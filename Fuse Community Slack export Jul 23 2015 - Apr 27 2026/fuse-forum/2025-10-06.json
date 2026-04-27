@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Export OST File to PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Exporting OST to PST on Mac or Windows is quick and secure with the <https:\/\/www.macsonik.com\/ost-pst-converter\/|MacSonik OST to PST Converter Tool>. This versatile software enables users to convert OST files to PST format without compromising email structure or data accuracy. It supports multiple OST file conversions, offers email preview before exporting, and includes date filters for selective migration. The tool can also convert OST files…",
+                "title": "How to Export OST File to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-export-ost-file-to-pst\/9234\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759749533.622239",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

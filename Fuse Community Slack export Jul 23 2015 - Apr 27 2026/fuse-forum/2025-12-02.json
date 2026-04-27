@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Reliable Method to Convert vCard to CSV Files? - @christie (Christie charles)",
+                "text": "The most reliable and easy way to convert vCard contacts to CSV files is using the <https:\/\/www.bitrecover.com\/vcard\/converter\/|BitRecover vCard Converter>. It allows you to convert single or multiple VCF files into CSV in just a few clicks while keeping all contact details intact, including names, phone numbers, emails, and more. The user can convert single or multiple vCard contact files. This converter gives you different saving formats.",
+                "title": "Reliable Method to Convert vCard to CSV Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/reliable-method-to-convert-vcard-to-csv-files\/9257\/2",
+                "author_name": "@christie (Christie charles)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/c\/7c8e57\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764677426.014989",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Easily Convert Outlook PST to MBOX? - @evajons",
+                "text": "To easily convert Outlook PST to MBOX file format with Softaken PST to MBOX Converter Tool. You can convert single and large Outlook files into MBOX file format with bulk conversion. It allows convert all emails and attachments from PST files into MBOX Mailbox file format. Download the free demo. Supports all Windows OS and MS Outlook versions.",
+                "title": "How to Easily Convert Outlook PST to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-easily-convert-outlook-pst-to-mbox\/9314\/3",
+                "author_name": "@evajons",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/e79b87\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764741920.741909",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

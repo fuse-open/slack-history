@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Could Someone Help me Improve Animations and Transitions in Fuse? - @alizaa90 (Aliza)",
+                "text": "Hello <https:\/\/forums.fusetools.com\/u\/romana|@Romana> :dizzy:\n\nThat is such an interesting thing that you are doing, so if you take my advice what you can do is when you have to Conceptualize and Plan you first have to brainstorm ideas and one tip is that while brainstorming use diagrams. Now when you are creating graphics, design elements in tools like Figma and export in suitable format. Consider Framer Motion, Lottie, CSS, or Fuse and Use …",
+                "title": "Could Someone Help me Improve Animations and Transitions in Fuse? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/could-someone-help-me-improve-animations-and-transitions-in-fuse\/8437\/2",
+                "author_name": "@alizaa90 (Aliza)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/alizaa90\/45\/1124_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1719635565.575449",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1730511240.048969",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1731238965.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1730511240.048969",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1731025436.236579",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1730966981.994929"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1730966990.192409"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1731025436.236579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1730511237,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "Make `&lt;Video\/&gt;` component works on `NativeViewHost`\n\n*Test Case:*\n\n```\n&lt;App&gt;\n\t&lt;ClientPanel&gt;\n\t\t&lt;StackPanel Dock=\"Bottom\"&gt;\n\t\t\t&lt;Text Value=\"Progress\" \/&gt;\n\t\t\t&lt;Panel Margin=\"10\" Height=\"10\"&gt;\n\t\t\t\t&lt;Rectangle &gt;\n\t\t\t\t\t&lt;Stroke Alignment=\"Outside\" Width=\"1\"&gt;\n\t\t\t\t\t\t&lt;SolidColor Color=\"#000\" \/&gt;\n\t\t\t\t\t&lt;\/Stroke&gt;\n\t\t\t\t&lt;\/Rectangle&gt;\n\n\t\t\t\t&lt;Rectangle Width=\"0%\" ux:Name=\"_progressBar\" Alignment=\"Left\"&gt;\n\t\t\t\t\t&lt;SolidColor Color=\"#0fc\" \/&gt;\n\t\t\t\t&lt;\/Rectangle&gt;\n\t\t\t&lt;\/Panel&gt;\n\t\t\t&lt;Text Value=\"Volume\" \/&gt;\n\t\t\t&lt;Slider ux:Name=\"_volume\" Minimum=\"0\" Maximum=\"1\" Value=\"1\" \/&gt;\n\n\t\t\t&lt;Grid DefaultRow=\"auto\" ColumnCount=\"2\"&gt;\n\t\t\t\t&lt;Button ux:Name=\"_playButton\" Text=\"Play\"&gt;\n\t\t\t\t\t&lt;Clicked&gt;&lt;Play Target=\"_video\" \/&gt;&lt;\/Clicked&gt;\n\t\t\t\t&lt;\/Button&gt;\n\t\t\t\t&lt;Button ux:Name=\"_pauseButton\" Text=\"Pause\" Visibility=\"Hidden\"&gt;\n\t\t\t\t\t&lt;Clicked&gt;&lt;Pause Target=\"_video\" \/&gt;&lt;\/Clicked&gt;\n\t\t\t\t&lt;\/Button&gt;\n\t\t\t&lt;\/Grid&gt;\n\t\t&lt;\/StackPanel&gt;\n\t\t&lt;Panel Dock=\"Fill\"&gt;\n\t\t\t&lt;Panel ux:Name=\"_loadingMessage\" Background=\"#000\" Opacity=\"0.5\" Visibility=\"Hidden\"&gt;\n\t\t\t\t&lt;Text TextColor=\"#fff\" Alignment=\"Center\"&gt;Loading...&lt;\/Text&gt;\n\t\t\t&lt;\/Panel&gt;\n\n\t\t\t&lt;Panel ux:Name=\"_pauseMessage\" Background=\"#000\" Opacity=\"0.5\" Visibility=\"Hidden\"&gt;\n\t\t\t\t&lt;Text TextColor=\"#fff\" Alignment=\"Center\"&gt;Paused&lt;\/Text&gt;\n\t\t\t&lt;\/Panel&gt;\n\n\t\t\t&lt;Panel ux:Name=\"_completedMessage\" Background=\"#000\" Opacity=\"0.5\" Visibility=\"Hidden\"&gt;\n\t\t\t\t&lt;Text TextColor=\"#fff\" Alignment=\"Center\"&gt;Completed&lt;\/Text&gt;\n\t\t\t&lt;\/Panel&gt;\n\n\t\t\t&lt;Panel ux:Name=\"_errorMessage\" Background=\"#000\" Visibility=\"Hidden\"&gt;\n\t\t\t\t&lt;Text TextColor=\"#f00\" Alignment=\"Center\"&gt;Error&lt;\/Text&gt;\n\t\t\t&lt;\/Panel&gt;\n\n\t\t\t&lt;Video ux:Name=\"_video\" StretchMode=\"Fill\" IsLooping=\"true\" Url=\"https:\/\/storage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4\"  Volume=\"{Property _volume.Value}\" &gt;\n\n\t\t\t\t&lt;WhilePlaying&gt;\n\t\t\t\t\t&lt;Change _playButton.Visibility=\"Hidden\" \/&gt;\n\t\t\t\t\t&lt;Change _pauseButton.Visibility=\"Visible\" \/&gt;\n\t\t\t\t&lt;\/WhilePlaying&gt;\n\n\t\t\t\t&lt;WhileLoading&gt;&lt;Change _loadingMessage.Visibility=\"Visible\" \/&gt;&lt;\/WhileLoading&gt;\n\t\t\t\t&lt;WhilePaused&gt;&lt;Change _pauseMessage.Visibility=\"Visible\" \/&gt;&lt;\/WhilePaused&gt;\n\t\t\t\t&lt;WhileCompleted&gt;&lt;Change _completedMessage.Visibility=\"Visible\" \/&gt;&lt;\/WhileCompleted&gt;\n\t\t\t\t&lt;WhileFailed&gt;&lt;Change _errorMessage.Visibility=\"Visible\" \/&gt;&lt;\/WhileFailed&gt;\n\n\t\t\t\t&lt;ProgressAnimation&gt;\n\t\t\t\t\t&lt;Change _progressBar.Width=\"100%\" \/&gt;\n\t\t\t\t&lt;\/ProgressAnimation&gt;\n\n\t\t\t&lt;\/Video&gt;\n\t\t&lt;\/Panel&gt;\n\t&lt;\/ClientPanel&gt;\n&lt;\/App&gt;\n\n```\n\nRun with : `uno build ios -DDISABLE_IMPLICIT_GRAPHICSVIEW` or `uno build android -DDISABLE_IMPLICIT_GRAPHICSVIEW`\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1501|#1501 Native Video Component>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1501,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1501&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Native Video Component&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

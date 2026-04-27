@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "How to Convert MBOX Files to PDF in Bulk? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you want a professional method to convert MBOX files to PDF in bulk, then you can use the <https:\/\/www.sysinfotools.com\/mbox-exporter.php|SysInfo MBOX Exporter>. It supports importing MBOX files into various email clients, including Gmail, Office 365, and Thunderbird. Furthermore, it allows for online export of MBOX files to multiple formats like PST, PDF, EML, EMLX, MSG, and HTML. This software efficiently handles both single and bulk MBOX c…",
+                "title": "How to Convert MBOX Files to PDF in Bulk? [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-mbox-files-to-pdf-in-bulk\/8965\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753697196.455909",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

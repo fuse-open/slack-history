@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Top digital marketing companies to promote your business - @aditya_kumar011 (Aditya kumar)",
+                "text": "If you’re looking to grow your business online, here are some top digital marketing companies to consider:\n\n<https:\/\/logelite.com\/|Logelite Pvt. Ltd.> – A fast-growing company offering SEO, social media marketing, PPC, and web development. Logelite stands out for its tailored strategies and strong client support.\n\nWebFX – Known for data-driven digital marketing services with measurable results.\n\nDisruptive Advertising – …",
+                "title": "Top digital marketing companies to promote your business [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/top-digital-marketing-companies-to-promote-your-business\/8573\/2",
+                "author_name": "@aditya_kumar011 (Aditya kumar)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/aditya_kumar011\/45\/1144_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1746793563.615959",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

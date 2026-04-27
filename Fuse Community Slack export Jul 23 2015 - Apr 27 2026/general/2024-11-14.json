@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U7ZRUCSUU",
+        "type": "message",
+        "ts": "1731620970.350609",
+        "client_msg_id": "2cc1037a-5a49-4479-80c3-23cf4c1cb3d7",
+        "text": "Hi devs,\nI would like to know if it's possible to use Nuget packages in a Fuse project. If yes, how can one use it? What packages would work, .NET Standard &lt;=2.0?\n\nI am trying to work on adding a few packages.",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "g08dd2012d4f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b08dd2012d4f6f2e9edf3f333ec0272a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Olalekan",
+            "real_name": "Olalekan Oladipupo",
+            "display_name": "Lakex",
+            "team": "T08325737",
+            "name": "olalekanoladipupo1050",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NEqji",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi devs,\nI would like to know if it's possible to use Nuget packages in a Fuse project. If yes, how can one use it? What packages would work, .NET Standard <=2.0?\n\nI am trying to work on adding a few packages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "db6882",
+                "fallback": "Issue running preview and loading image - @lakexyde (Olalekan)",
+                "text": "Is this forum still active? I also didn’t get any feedback on the slack channel. Can anyone help provide a solution to this? This is a huge blocker for me.",
+                "title": "Issue running preview and loading image [Bug Reports]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/issue-running-preview-and-loading-image\/8459\/2",
+                "author_name": "@lakexyde (Olalekan)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/f05b48\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1728637883.055959",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

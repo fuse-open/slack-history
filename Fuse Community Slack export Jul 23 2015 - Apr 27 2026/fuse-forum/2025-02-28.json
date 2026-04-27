@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy to convert NSF file to PST - @arden",
+                "text": "Softaken <https:\/\/www.softakensoftware.com\/lotus-notes-to-outlook-converter.html|Lotus Notes NSF to PST Converter> is an excellent tool to have on hand. When converting many NSF files at once to PST or another format, it is among the best tools available. With its straightforward interface and data integrity and folder hierarchy preserved during file conversion, this program is a must-have.",
+                "title": "Easy to convert NSF file to PST [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-to-convert-nsf-file-to-pst\/8408\/11",
+                "author_name": "@arden",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/d2c977\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1740809102.694139",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

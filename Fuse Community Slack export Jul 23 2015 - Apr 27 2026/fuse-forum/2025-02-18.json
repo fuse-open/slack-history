@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Top digital marketing companies to promote your business - @BhagatS",
+                "text": "There are many great digital marketing agencies in India, but one that stands out is AlgoSaga Digital Marketing Agency. They offer a full range of services, including SEO, PPC, social media marketing, content marketing, branding, and web development.\n\nWhat makes AlgoSaga unique is their data-driven strategies, innovative campaigns, and focus on delivering measurable results. They have helped start…",
+                "title": "Top digital marketing companies to promote your business [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/top-digital-marketing-companies-to-promote-your-business\/8573\/1",
+                "author_name": "@BhagatS",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/5daacb\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1739865809.226439",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

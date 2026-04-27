@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Import OLM File to Office 365? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Since Office 365 doesn’t natively support OLM imports, migrating data from Outlook for Mac can be difficult. Utilities like the MacSonik OLM Converter Tool help simplify this process by extracting mailbox items from the OLM file and saving them in Office 365-readable formats. The tool commonly includes options for selective email export, maintaining folder structure, transferring contacts and cale…",
+                "title": "Best Method to Import OLM File to Office 365? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-import-olm-file-to-office-365\/9344\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764156391.748359",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

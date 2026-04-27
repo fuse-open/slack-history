@@ -1,0 +1,46 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Update gms:play-services-maps to 17.0.0 required by google play - @MVONDO_Yannick",
+                "text": "Hello, how can I update com.google.android.gms:play-services-maps:16.1.0 to 17.0.0 on FuseOpen?\n\nThanks",
+                "title": "Update gms:play-services-maps to 17.0.0 required by google play [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/update-gms-play-services-maps-to-17-0-0-required-by-google-play\/8424\/1",
+                "author_name": "@MVONDO_Yannick",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/mvondo_yannick\/45\/214_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709790487.350439",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7",
+        "thread_ts": "1709790487.350439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710065519.977119",
+        "reply_users": [
+            "UL0LYUFD5",
+            "U1Z5FQXFU"
+        ],
+        "replies": [
+            {
+                "user": "UL0LYUFD5",
+                "ts": "1710009160.235509"
+            },
+            {
+                "user": "U1Z5FQXFU",
+                "ts": "1710065519.977119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

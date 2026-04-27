@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How do I Convert Mac Outlook OLM Files to PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The <https:\/\/www.macsonik.com\/olm-to-pst-converter\/|MacSonik OLM to PST Converter> provides an all-in-one solution for exporting OLM files to PST with precision. Once you upload your OLM file, the software allows you to preview the data and select PST as your output choice. It securely converts emails, contacts, calendars, tasks, and attachments while maintaining the original mailbox organization. Additional features, such as date-based filterin…",
+                "title": "How do I Convert Mac Outlook OLM Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-do-i-convert-mac-outlook-olm-files-to-pst\/9330\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1763379887.808339",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

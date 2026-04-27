@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "db6882",
+                "fallback": "Storage memory problema and slow - @Romana (Romana Jackson)",
+                "text": "You can try to reduce the file size\n\nI hope this strategy can help your work performance :smiling_face_with_3_hearts:",
+                "title": "Storage memory problema and slow [Bug Reports]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/storage-memory-problema-and-slow\/8117\/5",
+                "author_name": "@Romana (Romana Jackson)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/romana\/45\/1121_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718344322.239069",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

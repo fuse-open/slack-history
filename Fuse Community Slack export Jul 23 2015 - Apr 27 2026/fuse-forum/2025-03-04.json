@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "e0e0e0",
+                "fallback": "Migration tool from Lotus Notes to Office 365 - @pradeepkatiyar",
+                "text": "If you are looking for a software solution, then consider using Shoviv Lotus Notes to Office 365 Migration tool.\n\n[image]\n\n<https:\/\/www.shoviv.com\/lotus-notes-to-office365.html|shoviv.com>",
+                "title": "Migration tool from Lotus Notes to Office 365 [Fuse Professional]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migration-tool-from-lotus-notes-to-office-365\/8580\/2",
+                "author_name": "@pradeepkatiyar",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/p\/d78d45\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1741078892.159459",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

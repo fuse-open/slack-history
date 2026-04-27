@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1772254835.937299",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1772387024.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1772254835.937299",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1772387023.865559",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1772387023.865559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1772254833,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/docs] Pull request opened by dependabot[bot]",
+                "text": "Bumps and <https:\/\/github.com\/isaacs\/minimatch|minimatch>. These dependencies needed to be updated together.  \nUpdates `minimatch` from 3.1.2 to 3.1.5\nCommits \n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/7bba97888a27a6162983056bcce2a6e28f668712|`7bba978`> 3.1.5\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/bd259425b2ca17b42897997f93e890314155522d|`bd25942`> docs: add warning about ReDoS\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/1a9c27c75725474dbde57db2995b6281b267756d|`1a9c27c`> fix partial matching of globstar patterns\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/1a2e084af579731af66c221214e3ca8222c9bf23|`1a2e084`> 3.1.4\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/ae24656237c3d58067442f790ce17eff84463a47|`ae24656`> update lockfile\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/b1003749228b2a79e1f237963a0d559ef7a0941e|`b100374`> limit recursion for **, improve perf considerably\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/26ffeaa091b9f660833e23f42e07165b33e85c13|`26ffeaa`> lockfile update\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/9eca892a4e5dbb20534f9f30483b85cdeee6c2eb|`9eca892`> lock node version to 14\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/00c323b188b704e5d4bc534ecec2268cfa70a32a|`00c323b`> 3.1.3\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/30486b2048929264f44d18822891cfffa02af78b|`30486b2`> update CI matrix and actions\n• Additional commits viewable in <https:\/\/github.com\/isaacs\/minimatch\/compare\/v3.1.2...v3.1.5|compare view>\n  \nUpdates `minimatch` from 9.0.5 to 9.0.9\nCommits \n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/7bba97888a27a6162983056bcce2a6e28f668712|`7bba978`> 3.1.5\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/bd259425b2ca17b42897997f93e890314155522d|`bd25942`> docs: add warning about ReDoS\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/1a9c27c75725474dbde57db2995b6281b267756d|`1a9c27c`> fix partial matching of globstar patterns\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/1a2e084af579731af66c221214e3ca8222c9bf23|`1a2e084`> 3.1.4\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/ae24656237c3d58067442f790ce17eff84463a47|`ae24656`> update lockfile\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/b1003749228b2a79e1f237963a0d559ef7a0941e|`b100374`> limit recursion for **, improve perf considerably\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/26ffeaa091b9f660833e23f42e07165b33e85c13|`26ffeaa`> lockfile update\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/9eca892a4e5dbb20534f9f30483b85cdeee6c2eb|`9eca892`> lock node version to 14\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/00c323b188b704e5d4bc534ecec2268cfa70a32a|`00c323b`> 3.1.3\n• <https:\/\/github.com\/isaacs\/minimatch\/commit\/30486b2048929264f44d18822891cfffa02af78b|`30486b2`> update CI matrix and actions\n• Additional commits viewable in <https:\/\/github.com\/isaacs\/minimatch\/compare\/v3.1.2...v3.1.5|compare view>\n  \nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n---\n\nDependabot commands and options   \nYou can trigger Dependabot actions by commenting on this PR:\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \nYou can disable automated security fix PRs for this repo from the <https:\/\/github.com\/fuse-open\/docs\/network\/alerts|Security Alerts page>.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/fuse-open\/docs\/pull\/88|#88 build(deps): bump minimatch>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/docs|fuse-open\/docs>",
+                "fields": [
+                    {
+                        "value": "dependencies, javascript",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;docs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:131993216,&amp;amp;quot;number&amp;amp;quot;:88,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/docs\/pull\/88&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps): bump minimatch&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

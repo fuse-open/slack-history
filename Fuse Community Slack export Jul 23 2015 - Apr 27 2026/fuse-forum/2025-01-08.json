@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Migrate EML to PST with MailsWare EML Convertor Toolkit - @OwenClarke (Owen)",
+                "text": "How to Migrate EML to PST for Free ?\n\nWhen you need to migrate EML to PST, it’s vital to use a suitable procedure. This applies when using EML format by mail applications like Windows Live Mail or Thunderbird and there’s a need to switch over to the widely used Microsoft Outlook program using PST files. This guide discusses the best tools and techniques, which would cover manual methods, about how…",
+                "title": "Migrate EML to PST with MailsWare EML Convertor Toolkit [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migrate-eml-to-pst-with-mailsware-eml-convertor-toolkit\/8540\/1",
+                "author_name": "@OwenClarke (Owen)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/o\/c57346\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1736403004.457769",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

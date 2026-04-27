@@ -1,0 +1,182 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1721547307.063789",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1721481972.756839",
+        "parent_user_id": "U024ET51BLG",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1721547305,
+                "color": "36a64f",
+                "fallback": "[fuse-open\/fuselibs] Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/ichan-mb|ichan-mb's> pull request",
+                "pretext": "Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/ichan-mb|ichan-mb's> pull request",
+                "title": "Review on #1499 ImageTools permission fix for Android 13",
+                "title_link": "https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1499#pullrequestreview-2190260918",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1721547315.485819",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 2 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/28269b3401ec890f6a40c5124f98540109fe2684|28269b34>` - fix android 13 permissions\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/522f77b50ab24dbe9e792303960402cab2a5a31e|522f77b5>` - Merge pull request #1499 from ichan-mb\/develop",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/c7f6068fbfe4...522f77b50ab2|2 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B023X8DUEHJ",
+        "thread_ts": "1721481972.756839",
+        "root": {
+            "user": "U024ET51BLG",
+            "type": "message",
+            "ts": "1721481972.756839",
+            "edited": {
+                "user": "B023X8DUEHJ",
+                "ts": "1721547316.000000"
+            },
+            "bot_id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T08325737",
+            "bot_profile": {
+                "id": "B023X8DUEHJ",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U024ET51BLG",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1622616203,
+                "team_id": "T08325737"
+            },
+            "thread_ts": "1721481972.756839",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1721547316.139119",
+            "reply_users": [
+                "U024ET51BLG"
+            ],
+            "replies": [
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1721547307.063789"
+                },
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1721547316.139119"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1721481969,
+                    "color": "6f42c1",
+                    "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                    "text": "Another permission fix for compatibility with Android 13 later",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                    "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1499|#1499 ImageTools permission fix for Android 13>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/mortend|@mortend>",
+                            "title": "Reviewers",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1499,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1499&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;ImageTools permission fix for Android 13&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1721547316.139119",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1721481969,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request merged by mortend",
+                "pretext": "Pull request merged by <https:\/\/github.com\/mortend|mortend>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1499|#1499 ImageTools permission fix for Android 13>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>"
+            }
+        ]
+    }
+]

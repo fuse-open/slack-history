@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Qucik Method to Move Sympatico Email to Gmail - @mohdkaif002 (Mohd Kaif)",
+                "text": "Users looking to move Sympatico emails to Gmail can use the MacSonik IMAP Backup Tool for a fast and reliable migration process. The tool supports direct IMAP connectivity, allowing users to log in with their Sympatico account and access all mailbox folders. After selecting Gmail as the destination email client, the software transfers emails securely while maintaining attachments, email formatting…",
+                "title": "Qucik Method to Move Sympatico Email to Gmail [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/qucik-method-to-move-sympatico-email-to-gmail\/9582\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1773227836.489749",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

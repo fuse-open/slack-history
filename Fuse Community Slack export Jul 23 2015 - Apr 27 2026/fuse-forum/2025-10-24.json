@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Method to Split Large VCF Files? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The <https:\/\/www.macsonik.com\/vcf-splitter\/|MacSonik VCF Split&amp;Merge Tool> for Mac is a powerful and efficient solution for managing vCard or VCF files on macOS. It enables users to combine multiple VCF files into one consolidated file or divide a large VCF file into several smaller files without compromising any contact details. The software is compatible with all key vCard formats, including versions 2.1, 3.0, and 4.0, ensuring seaml…",
+                "title": "Easy Method to Split Large VCF Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-method-to-split-large-vcf-files\/9262\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1761307597.721299",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

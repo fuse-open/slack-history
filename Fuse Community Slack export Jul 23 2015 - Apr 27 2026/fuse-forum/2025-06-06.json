@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "e0e0e0",
+                "fallback": "Migration tool from Lotus Notes to Office 365 - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for an easy method to migrate Lotus notes to Office 365, you can try the NSF to PST. It exports all emails, contacts, calendars, tasks, and more from HCL Notes NSF Files. It also migrates Lotus Notes NSF files into Office 365 accounts, without complex procedures. It performs NSF to PST conversion in bulk without causing any data alteration. Moreover, it includes features like ma…",
+                "title": "Migration tool from Lotus Notes to Office 365 [Fuse Professional]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migration-tool-from-lotus-notes-to-office-365\/8580\/3",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1749210683.566329",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

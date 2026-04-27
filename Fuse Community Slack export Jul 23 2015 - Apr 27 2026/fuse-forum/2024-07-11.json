@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to implement a qr code scanner - @elinasadiq",
+                "text": "Hello,\n\nI think you have to Create native modules for both Android and iOS to handle scanning. Invoke these modules from your Fuse JavaScript code to start the scanning process. Once a QR code is scanned, handle the result within your app to perform the desired actions.",
+                "title": "How to implement a qr code scanner [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-implement-a-qr-code-scanner\/2281\/8",
+                "author_name": "@elinasadiq",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/elinasadiq\/45\/1125_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720692413.012019",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Need Help to Set Up Real Time Updates - @elinasadiq",
+                "text": "Hello,\n\nWelcome to the real-time chat app world.",
+                "title": "Need Help to Set Up Real Time Updates [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/need-help-to-set-up-real-time-updates\/8435\/2",
+                "author_name": "@elinasadiq",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/elinasadiq\/45\/1125_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720766283.978419",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup Yahoo Mailboxes? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to backup Yahoo Mailboxes, then you can use the <https:\/\/www.sysinfotools.com\/yahoo-backup.php|SysInfo Yahoo Backup Software>. This tool offers a versatile solution for your Yahoo emails. It efficiently backs up your Yahoo emails into various popular formats like PST, MBOX, CSV, EML, and PDF. It also import of Yahoo mailboxes directly to platforms such as G Suite, Office 365, Gmail, and other IMAP accounts. Wheth…",
+                "title": "How to Backup Yahoo Mailboxes? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-yahoo-mailboxes\/8788\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1751633957.755649",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

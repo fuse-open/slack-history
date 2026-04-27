@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Merge Multiple PST Files into Single PST File? - @DeniseSmith1",
+                "text": "Hi,\n\nFew months ago I faced same problem to merge multiple PST file, my suggest me the GainTools Merge PST Tool to easily merge many PST file into single file.",
+                "title": "How to Merge Multiple PST Files into Single PST File? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-merge-multiple-pst-files-into-single-pst-file\/8922\/6",
+                "author_name": "@DeniseSmith1",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/94ad74\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1772897453.942969",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

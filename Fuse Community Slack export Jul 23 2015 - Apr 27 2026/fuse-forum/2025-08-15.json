@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Convert DBX Files to PST? - @NatalieHill",
+                "text": "Try the Softaken BBX to PST Converter Software, which is the best method to convert DBX files to PST. It maintains the original database file transfer process. Supports all versions of Outlook Express and MS Outlook.",
+                "title": "Best Method to Convert DBX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-convert-dbx-files-to-pst\/9054\/2",
+                "author_name": "@NatalieHill",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/n\/a88e4f\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755324390.637599",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

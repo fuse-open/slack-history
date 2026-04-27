@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Convert DBX Files to PST? - @MariaReyes",
+                "text": "You should try the GainTools DBX to PST Converter Software for converting DBX files to PST without data loss. It converts bulk emails from Outlook Express (DBX) into an Outlook PST file at once. While converting of DBX top PST file, it maintains the original email structure. Support all Outlook Express and MS Outlook editions. It offers a free demo edition to check out the software before deciding…",
+                "title": "Best Method to Convert DBX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-convert-dbx-files-to-pst\/9054\/3",
+                "author_name": "@MariaReyes",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/5daacb\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758110494.422049",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Quick Ways to Convert MBOX Files to PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The MacSonik MBOX Converter makes it simple to convert MBOX files into PST format. This advanced tool streamlines the migration process by enabling users to easily add their MBOX files, review the mailbox data, and <https:\/\/www.macsonik.com\/blog\/convert-mbox-to-pst\/|seamlessly export it to PST>. It ensures that the folder structure, email attributes, and attachments remain intact throughout the conversion, guaranteeing zero data loss. This makes it …",
+                "title": "Quick Ways to Convert MBOX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/quick-ways-to-convert-mbox-files-to-pst\/9187\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758112882.490789",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

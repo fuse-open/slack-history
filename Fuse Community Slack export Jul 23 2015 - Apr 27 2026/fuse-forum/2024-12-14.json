@@ -1,0 +1,59 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "f3d748",
+                "fallback": "Amplify - Podcast App Built Using Fuse - @lakexyde (Olalekan)",
+                "text": "Hi guys,\n\nGlad to announce that I’ve finally released a Podcast app built using Fuse on the Google Play Store. It was previously built on Flutter but I had to take up the challenge to rebuild. It was a tough decisions because I had to learn a lot. iOS is almost done, just a few bugs here and there. I plan to build more app using Fuse.\n\nYou can check it out below. (Will drop the App Store link when…",
+                "title": "Amplify - Podcast App Built Using Fuse [Show and Tell]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/amplify-podcast-app-built-using-fuse\/8521\/1",
+                "author_name": "@lakexyde (Olalekan)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/f05b48\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1734171550.858519",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "A real world app - @lakexyde (Olalekan)",
+                "text": "Hi. I recently did this.\n\n<https:\/\/play.google.com\/store\/apps\/details?id=com.lakexio.amplify|Amplify Podcast>",
+                "title": "A real world app [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/a-real-world-app\/2849\/4",
+                "author_name": "@lakexyde (Olalekan)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/f05b48\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1734171674.348109",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UL0LYUFD5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Unable to publish new app on Google Play console - @shaunparker",
+                "text": "Thanks for the information for tell how to publish new app on Google Play Console",
+                "title": "Unable to publish new app on Google Play console [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/unable-to-publish-new-app-on-google-play-console\/8309\/3",
+                "author_name": "@shaunparker",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/d2c977\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1777028949.518769",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Clean this forum from spam, please! - @shaunparker",
+                "text": "Great Mannnnnnnnnnnnnnnnnnnnnn :call_me_hand:",
+                "title": "Clean this forum from spam, please! [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/clean-this-forum-from-spam-please\/8880\/3",
+                "author_name": "@shaunparker",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/d2c977\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1777029204.566479",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

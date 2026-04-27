@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Transfer Data from Google Takeout to Hard Drive? - @mohdkaif002 (Mohd Kaif)",
+                "text": "To transfer Google Takeout data to a hard drive using the <https:\/\/www.macsonik.com\/mbox\/converter\/|MacSonik MBOX Converter>, first export your Gmail data from Google Takeout in MBOX format and unzip the downloaded file. Then, install and open the MacSonik MBOX Converter on your Mac, add the extracted MBOX files, and choose an output format such as PDF, PST, or EML. Set your external hard drive as the destination location and start the con…",
+                "title": "How to Transfer Data from Google Takeout to Hard Drive? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-transfer-data-from-google-takeout-to-hard-drive\/9265\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1761395448.318459",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

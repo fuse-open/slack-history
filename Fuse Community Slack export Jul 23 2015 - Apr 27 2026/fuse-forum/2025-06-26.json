@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Split Large and Oversized OLM Files? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for the best method to split large and oversized OLM files, then you can use the <https:\/\/www.sysinfotools.com\/olm-splitter.php|SysInfo OLM Splitter>. This utility is designed to break down large Outlook for Mac (OLM) files into smaller, more manageable parts. This process aims to boost Outlook’s performance, reduce the risk of file corruption, and simplify data organization. The tool provides flexible options for splitting, …",
+                "title": "How to Split Large and Oversized OLM Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-split-large-and-oversized-olm-files\/8752\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750999067.198759",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

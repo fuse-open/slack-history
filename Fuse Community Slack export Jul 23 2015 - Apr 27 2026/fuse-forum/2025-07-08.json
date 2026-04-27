@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "e0e0e0",
+                "fallback": "Migration tool from Lotus Notes to Office 365 - @devidmithen",
+                "text": "Thank you for the information.",
+                "title": "Migration tool from Lotus Notes to Office 365 [Fuse Professional]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migration-tool-from-lotus-notes-to-office-365\/8580\/4",
+                "author_name": "@devidmithen",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/8491ac\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1751959876.645229",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to MBOX? - @devidmithen",
+                "text": "To convert OST files to MBOX manually there is no direct manual method as Outlook doesn’t support MBOX format. A reliable alternative is using the DataVare OST to MBOX Converter. This tool easily converts OST files to MBOX format without data loss and technical hassle. It is compatible with all popular email clients that support MBOX like Thunderbird, Apple Mail and more. It is a user-friendly and…",
+                "title": "How to Convert OST Files to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-mbox\/8754\/2",
+                "author_name": "@devidmithen",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/8491ac\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1751960310.065969",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup AOL Mailboxes? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to backup AOL mailboxes, then you can try the <https:\/\/www.sysinfotools.com\/aol-backup.php|SysInfo AOL Migration Tool>. This versatile tool efficiently backs up AOL mailbox data to formats like PST, PDF, CSV, and MBOX, and also migrates it to various web\/cloud email clients. It offers advanced attachment management, a date range filter, maintains folder hierarchy and data integrity, and removes duplicate emai…",
+                "title": "How to Backup AOL Mailboxes? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-aol-mailboxes\/8808\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1751979912.841969",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

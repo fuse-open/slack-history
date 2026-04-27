@@ -1,0 +1,214 @@
+[
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726068288.238249",
+        "client_msg_id": "1e9cd794-bfc3-4703-8696-d268dd270af3",
+        "text": "Hello! Is it possible to trigger a function when a StackPanel scrolls into view inside ScrollView?",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6KLkq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Is it possible to trigger a function when a StackPanel scrolls into view inside ScrollView?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726069239.131259",
+        "client_msg_id": "9400555a-d156-4075-ae75-387fc4ffc248",
+        "text": "WhileVisibleInScrollView with Callback did the trick, but is there a param to trigger the event only when the component is fully visible?",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726069239.131259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1726072657.410609",
+        "reply_users": [
+            "U5V39DX27"
+        ],
+        "replies": [
+            {
+                "user": "U5V39DX27",
+                "ts": "1726072657.410609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4m7IZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WhileVisibleInScrollView with Callback did the trick, but is there a param to trigger the event only when the component is fully visible?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726070431.637619",
+        "client_msg_id": "0ae10ac2-0a48-4b05-a9bc-3e15d39d9a90",
+        "text": "Also with WhileVisibleInScrollView there's a problem: the first items coming to view do not get triggered at all. They get triggered when I scroll back to the beginning.",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6d1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also with WhileVisibleInScrollView there's a problem: the first items coming to view do not get triggered at all. They get triggered when I scroll back to the beginning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726072657.410609",
+        "client_msg_id": "de98b14c-f6fc-47ab-8041-ae20dffd9d41",
+        "text": "Mode=\"Full\" works",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1726069239.131259",
+        "parent_user_id": "U5V39DX27",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58sMH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mode=\"Full\" works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726072896.086479",
+        "client_msg_id": "6dae97d8-dfbb-4086-b958-5db3c38da2a3",
+        "text": "From the forums i gathered this is a bug from 2017 but still no fix. Does anyone have a fix for this issue or should i just programmatically figure out the first items in the ScrollView and manually trigger their visibility event? That's an ugly hack but :man-shrugging:",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uAw9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From the forums i gathered this is a bug from 2017 but still no fix. Does anyone have a fix for this issue or should i just programmatically figure out the first items in the ScrollView and manually trigger their visibility event? That's an ugly hack but "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging",
+                                "unicode": "1f937-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

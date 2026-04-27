@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to repair videos recorded from my DSLR camera - @Romana (Romana Jackson)",
+                "text": "Hello <https:\/\/forums.fusetools.com\/u\/sunil123|@sunil123>\n\nThank you for :pray:supporting the Kernel for Video Repair software to fix videos recorded from my DSLR camera. I appreciate the detailed instructions on how to download, install, and use the software.\n\nI read this post this is also helpful me",
+                "title": "How to repair videos recorded from my DSLR camera [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-repair-videos-recorded-from-my-dslr-camera\/8416\/2",
+                "author_name": "@Romana (Romana Jackson)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/romana\/45\/1121_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718021094.485029",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

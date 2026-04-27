@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "db6882",
+                "fallback": "Issue running preview and loading image - @lakexyde (Olalekan)",
+                "text": "Hi,\n\nI found a couple of issue while running Fuse. I got this error when I try to run fuse preview ios, fuse preview ios-sim, fuse preview android:\n\nfuse: Failed to create or reuse output dir in '...\/work\/fuse\/apps\/Amplify\/build\/preview\/preview': Locking\/unlocking file regions is not supported on this platform. Use FileShare on the entire file instead.\n\nI also can’t see images on my Local preview.…",
+                "title": "Issue running preview and loading image [Bug Reports]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/issue-running-preview-and-loading-image\/8459\/1",
+                "author_name": "@lakexyde (Olalekan)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/f05b48\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1728549220.892969",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Migrate Google Workspace to Microsoft 365 - @ialexx (Alex Harvey)",
+                "text": "When an organization is looking to shift from Google Workspace to Microsoft 365 to grab advantage of the Microsoft 365 environment. This shift required moving email, Calendar, Contacts, and Drive data to Microsoft 365.\n\nShoviv <https:\/\/www.shoviv.com\/g-suite-to-office365.html|G Suite to Office 365 Migration> is a professional software that helps move G Suite mailboxes to Office 365 easily and efficiently. It can migrate email, content, calendar, a…",
+                "title": "How to Migrate Google Workspace to Microsoft 365 [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-migrate-google-workspace-to-microsoft-365\/9535\/1",
+                "author_name": "@ialexx (Alex Harvey)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/ialexx\/45\/1152_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770269992.368499",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

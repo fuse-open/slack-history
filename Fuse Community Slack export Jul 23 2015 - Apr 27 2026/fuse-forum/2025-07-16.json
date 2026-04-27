@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup Yahoo Mails to Local Drive? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to backup Yahoo mailbox to Local drive, you can use the <https:\/\/www.sysinfotools.com\/yahoo-backup.php|SysInfo Yahoo Backup Tool>. This tool offers a complete solution for managing your emails. Easily back up your Yahoo emails into various formats like PST, MBOX, CSV, EML, PDF, and more. You can also seamlessly import your Yahoo mailboxes directly into G Suite, Office 365, Gmail, and other IMAP accounts. This t…",
+                "title": "How to Backup Yahoo Mails to Local Drive? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-yahoo-mails-to-local-drive\/8891\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1752666369.192909",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

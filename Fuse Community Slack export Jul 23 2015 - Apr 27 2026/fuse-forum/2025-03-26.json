@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Best Gmail Migration Tool in 2025 - @jackera",
+                "text": "When it comes to migrating Gmail emails efficiently and securely, Advik Gmail Migration Tool stands out as the best choice. This powerful tool allows users to transfer emails from Gmail to various platforms, including Outlook, Office 365, Thunderbird, Yahoo Mail, and more. With its advanced features like selective migration, batch processing, and maintaining folder hierarchy, users can ensure a sm…",
+                "title": "Best Gmail Migration Tool in 2025 [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-gmail-migration-tool-in-2025\/8604\/1",
+                "author_name": "@jackera",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/c57346\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1742991103.733429",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

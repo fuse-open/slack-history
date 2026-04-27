@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1733640289.164419",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/uno] 2 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/uno\/commit\/73a7eefa3f56f1d8632f30e5e62a18a8c0826fa8|73a7eefa>` - update copyright year\n`<https:\/\/github.com\/fuse-open\/uno\/commit\/05f2bbe74eff6a5d3c450e4df5842b51275a9fb6|05f2bbe7>` - update CHANGELOG",
+                "pretext": "<https:\/\/github.com\/fuse-open\/uno\/compare\/05f5a8965e17...05f2bbe74eff|2 new commits> pushed to `<https:\/\/github.com\/fuse-open\/uno\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/uno|fuse-open\/uno>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1733641697.187149",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/uno] 2 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/uno\/commit\/f2d96f2c46b2b344febf03ba54778c05a067ea98|f2d96f2c>` - npm upgrade\n`<https:\/\/github.com\/fuse-open\/uno\/commit\/4537d0e12fc83e8c7bc776aa762b26a25f77b40f|4537d0e1>` - 3.0.0-beta.11",
+                "pretext": "<https:\/\/github.com\/fuse-open\/uno\/compare\/05f2bbe74eff...4537d0e12fc8|2 new commits> pushed to `<https:\/\/github.com\/fuse-open\/uno\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/uno|fuse-open\/uno>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

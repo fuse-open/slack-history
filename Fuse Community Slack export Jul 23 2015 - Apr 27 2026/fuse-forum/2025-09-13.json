@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to VCF? - @liamtran",
+                "text": "For the conversion of the OST files to VCF, then try using the TrustVare OST to VCF Converter without facing any difficulty.",
+                "title": "How to Convert OST Files to VCF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-vcf\/8924\/3",
+                "author_name": "@liamtran",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/ed8c4c\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1757749016.577109",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

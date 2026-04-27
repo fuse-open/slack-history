@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1745664322.054899",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 1 new commit pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/65f5e5ca2c6692120da1e1288c137b558f31e0ab|65f5e5ca>` - CHANGELOG: add v3.0.0-beta.10 changes",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/ebf27aa871bb...65f5e5ca2c66|1 new commit> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1745665628.952979",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 1 new commit pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/264e919e9f81d710fc7357cf8292f2406ea85b57|264e919e>` - 3.0.0-beta.10",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/65f5e5ca2c66...264e919e9f81|1 new commit> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1745665629.687219",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "28a745",
+                "fallback": "[fuse-open\/fuselibs] tag v3.0.0-beta.10 created by mortend",
+                "text": "<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/v3.0.0-beta.10|v3.0.0-beta.10>",
+                "pretext": "Tag created by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1745668286.365209",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1745668284,
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] New release <https:\/\/github.com\/fuse-open\/fuselibs\/releases\/tag\/v3.0.0-beta.10|Release - Fuselibs 3.0.0-beta.10> published by mortend",
+                "text": "## Install\n\n```\nnpm install @fuse-open\/fuselibs@3.0.0-beta.10\n\n```\n\n## Changes since v2.9.2\n\n### Common\n\n• Add `outputType` in project files (<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/acbcee3102dd2447f4aabdf6284dca2065b50d69|acbcee3>)\n• Update project and config files (<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/85ff816e4e643212c78065e2df70f13e112f7d6a|85ff816>)\n• Update `GLHelper.h` includes on Android (<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/2b143eba84a712ef53f0bda0bacded72e9424a95|2b143eb>)\n• Simplify Android runtime version check (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1480|#1480>)\n• Update macros and uxl files (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1491|#1491>)\n• Update unoproj syntax in doc-comments (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1493|#1493>)\n• Switch default UI rendering on iOS and Android (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1502|#1502>)\n\n### Experimental.TextureLoader\n\n• Remove legacy `Experimental.TextureLoader` library (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1458|#1458>)\n\n### Fuse.Camera\n\n• Update permissions for Android 13 (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1487|#1487>)\n\n### Fuse.Common\n\n• Remove obsolete methods and enum value (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1492|#1492>)  \n   • `Fuse.Json.Escape(string s)`  \n   • `Fuse.Json.Escape(string s, StringBuilder sb)`  \n   • `Fuse.SystemFont.Weight.SemiBold`\n\n### Fuse.Controls.CameraView\n\n• Android: Fix Android 13 permission (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1496|#1496>)\n\n### Fuse.Controls.Native\n\n• Native ScrollView feature parity with the Graphics Mode (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1497|#1497>)\n• Android: Fix native ScrollView where nested with horizontal ScrollView (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500|#1500>)\n• Native Video Component (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1501|#1501>)\n• Native Slider Android: fix bug recursive setting value (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1504|#1504>)\n• Android: Fix Scrollview with content padding (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1505|#1505>)\n• Android: Native Scrollview snap min\/max and bounce scroll (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1509|#1509>)\n• Android: Scrolling detect Improvement (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1512|#1512>)\n\n### Fuse.Controls.Primitives\n\n• iOS: Fix crash when removing Shadow (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1498|#1498>)\n• Fix bugs and improve native rendering for Image, Circle and Shadow (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1507|#1507>)\n\n### Fuse.Controls.Video\n\n• Upgrade `Fuse.Video.CIL` to .NET 6.0 (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1475|#1475>)\n\n### Fuse.Controls.ScrollView\n\n• ScrollView push to native for property changes (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1510|#1510>)\n\n### Fuse.Drawing.Surface\n\n• Update assembly references for .NET 6.0 (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1476|#1476>)\n\n### Fuse.ImageTools\n\n• Android: Fix Android 13 permission (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1499|#1499>)\n\n### Fuse.LocalNotifications\n\n• Android: Fix compatibility with the Android 13 and indentation (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1473|#1473>)\n\n### Fuse.Maps\n\n• iOS: Fix memory leaks with MapView (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1503|#1503>)\n• Android: MapView sanitary check (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1511|#1511>)\n\n### Fuse.Nodes\n\n• Remove obsolete methods (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1492|#1492>)  \n   • `Fuse.VisualBounds.Transform(float4x4 matrix)`  \n   • `Fuse.VisualBounds.TransformFlatten(float4x4 matrix)`  \n   • `Fuse.VisualBounds.BoxTransform(Box box, float4x4 transform)`\n• Android: Fix crash on layout transformation (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1506|#1506>)\n\n### Fuse.Scripting\n\n• Deprecate `NativePromise` without `Context` (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1467|#1467>)\n• Remove obsolete methods (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1492|#1492>)  \n   • `Fuse.Scripting.IThreadWorker.Invoke(Uno.Action action)`  \n   • `Fuse.Scripting.Context.Invoke(Uno.Action action)`  \n   • `Fuse.Scripting.ModuleResult.Object`  \n   • `Fuse.Scripting.ModuleResult.Exports`  \n   • `Fuse.Scripting.NativeEvent.RaiseAsync(params object[] args)`  \n   • `Fuse.Scripting.Object.InstanceOf(Function type)`  \n   • `Fuse.Scripting.Object.CallMethod(string name, params object[] args)`  \n   • `Fuse.Scripting.Function.Call(params object[] args)`  \n   • `Fuse.Scripting.Function.Construct(params object[] args)`\n\n### Fuse.Scripting.JavaScript\n\n• TypeScript and transpiler support in UX files (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1472|#1472>)\n• Upgrade `<http:\/\/V8Simple.net|V8Simple.net>` for .NET 6.0 (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1483|#1483>)\n\n### Polyfills.Window\n\n• Blob and URL polyfill, enhance fetch, and sanitary check (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1508|#1508>)\n\n### Other changes\n\n• Upgrade `Fuse.Profiling` tool to .NET 6.0 (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1474|#1474>)\n• Upgrade `android-build-tools` to v2.x (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1488|#1488>)\n• Ignore tests failing on macOS (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1484|#1484>)\n• Kill tests after 15 minutes (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1489|#1489>)\n• OS X -&gt; macOS clean up (<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1495|#1495>)\n\n<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/v2.9.2...v3.0.0-beta.10|`v2.9.2...v3.0.0-beta.10`>",
+                "pretext": "New release published by <https:\/\/github.com\/mortend|mortend>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/releases\/tag\/v3.0.0-beta.10|Release - Fuselibs 3.0.0-beta.10>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

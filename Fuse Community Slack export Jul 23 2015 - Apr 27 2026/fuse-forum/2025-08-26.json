@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to MBOX? - @antoniogosling",
+                "text": "If you want to convert Offline OST file to MBOX then we recommend you to choose BitRecover <https:\/\/www.bitrecover.com\/ost-to-pst\/|OST Converter> as this tool can easily restore and convert dismounted, corrupted, inaccessible and oversize OST file. This tool offers advanced filter such as date range, exclude folder, skip empty folder and many more with maintained attributes.",
+                "title": "How to Convert OST Files to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-mbox\/8754\/4",
+                "author_name": "@antoniogosling",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/a88e4f\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1756200162.215359",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Restore Data of Google Account? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to restore data of Google account, you can use the <https:\/\/www.sysinfotools.com\/gmail-backup.php|SysInfo Gmail Backup Tool>. This tool offers a simple and reliable method for backing up your Gmail mailbox. It can back up Gmail data in multiple formats such as PDF, PST, MBOX, MSG, EML, DOC, and others. It allows you to export large volumes of Gmail emails along with attachments. The software also supports migra…",
+                "title": "How to Restore Data of Google Account? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-restore-data-of-google-account\/9112\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1756209878.792219",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

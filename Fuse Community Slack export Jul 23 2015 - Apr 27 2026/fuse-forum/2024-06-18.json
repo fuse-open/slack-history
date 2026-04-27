@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Could Someone Help me Improve Animations and Transitions in Fuse? - @Romana (Romana Jackson)",
+                "text": "Hello everyone :smiling_face_with_3_hearts:\n\nI have been highly impressed with the opportunity for creating beautiful and helpful user interfaces. After understanding the basic skills, I am excited to go deeper into complex animations and transitions to bring my app to life. But I am discovering several parts hard and I want some advice from the experienced programmers in this group.\n\nHow can I build professional animatio…",
+                "title": "Could Someone Help me Improve Animations and Transitions in Fuse? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/could-someone-help-me-improve-animations-and-transitions-in-fuse\/8437\/1",
+                "author_name": "@Romana (Romana Jackson)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/romana\/45\/1121_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718776477.923079",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

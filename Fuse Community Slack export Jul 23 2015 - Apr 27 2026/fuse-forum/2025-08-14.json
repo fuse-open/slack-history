@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Convert DBX Files to PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you want a professional method to convert DBX files to PST, then you can use the <https:\/\/www.sysinfotools.com\/recovery\/dbx-to-pst-converter.php|DBX to PST Converter.> It lets you convert as many Outlook Express DBX files as you need, all at once, into Outlook’s PST format. You won’t have to worry about file size limits, and it ensures every email and folder structure is perfectly preserved. Plus, it’s compatible with all Windows OS and includes an advanced …",
+                "title": "Best Method to Convert DBX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-convert-dbx-files-to-pst\/9054\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755155819.373329",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

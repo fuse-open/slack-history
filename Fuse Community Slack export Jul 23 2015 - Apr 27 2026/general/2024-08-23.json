@@ -1,0 +1,155 @@
+[
+    {
+        "user": "U022Y572HFC",
+        "type": "message",
+        "ts": "1724418076.769239",
+        "client_msg_id": "3f1472ff-90c5-4fcc-8f40-4a3573d58a9a",
+        "text": "Hey, folks! Help me to understand the question about outstaffing. I want to understand whether it is still relevant or not. I have created an anonymous questionnaire and I would appreciate if you could share your opinion there!\n<https:\/\/forms.gle\/1MLCph8PN85YXyiw9>",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "c65a622f7957",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-31\/7504160799829_c65a622f7957512dceb0_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex",
+            "display_name": "",
+            "team": "T08325737",
+            "name": "agarminovich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh5.googleusercontent.com\/pLQ7LtVfB7ePhNkkdqOVtQmvz4e_uHYXuJLk1CJeBRlOeFI4U3XGW-0f60n1DNv1P9dyUsLVYy4",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 37886,
+                "from_url": "https:\/\/forms.gle\/1MLCph8PN85YXyiw9",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/1MLCph8PN85YXyiw9",
+                "fallback": "Google Docs: Outstaffing in 2024 - is this service still relevant?",
+                "text": "Hey, folks! Help me to understand the question about outstaffing. I want to understand whether it is still relevant or not. I have created an anonymous questionnaire and I would appreciate if you could share your opinion there!",
+                "title": "Outstaffing in 2024 - is this service still relevant?",
+                "title_link": "https:\/\/forms.gle\/1MLCph8PN85YXyiw9",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UYw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, folks! Help me to understand the question about outstaffing. I want to understand whether it is still relevant or not. I have created an anonymous questionnaire and I would appreciate if you could share your opinion there!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/1MLCph8PN85YXyiw9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07GHMHM49Z",
+        "type": "message",
+        "ts": "1724418109.246929",
+        "client_msg_id": "838889bd-cabb-4c80-a41e-2974fd10fe22",
+        "text": "Hey, folks! Help me to understand the question about outstaffing. I want to understand whether it is still relevant or not. I have created an anonymous questionnaire and I would appreciate if you could share your opinion there!\n<https:\/\/forms.gle\/1MLCph8PN85YXyiw9>",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "4ac02b844628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-04\/8543081585733_4ac02b844628f81333c6_72.png",
+            "first_name": "Danila",
+            "real_name": "Danila Baradach",
+            "display_name": "Danila B.",
+            "team": "T08325737",
+            "name": "danila.baradach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, folks! Help me to understand the question about outstaffing. I want to understand whether it is still relevant or not. I have created an anonymous questionnaire and I would appreciate if you could share your opinion there!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/1MLCph8PN85YXyiw9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "USWMEHU3X",
+        "type": "message",
+        "ts": "1724418207.949759",
+        "client_msg_id": "3c7616a5-8879-4917-a5e1-fa0e0e2f3397",
+        "text": "Fishing :fishing_pole_and_fish: :joy:",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "b2c3a9141c8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/914776145920_b2c3a9141c8fd0b2b28c_72.jpg",
+            "first_name": "Serhii",
+            "real_name": "Serhii Bukrieiev",
+            "display_name": "Serhii Bukrieiev",
+            "team": "T08325737",
+            "name": "s.s.bukreev1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8c2uu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fishing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fishing_pole_and_fish",
+                                "unicode": "1f3a3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Way to Convert OLM Files to PST? - @arju",
+                "text": "If you want to convert Mac Outlook OLM files to PST is simple and reliable with Aryson OLM file Converter Tool. This powerful solution helps users migrate OLM data to Windows Outlook while maintaining complete data integrity. It supports bulk conversion and exports emails, contacts, calendars, tasks, notes, and attachments without altering the original folder structure. The tool allows conversion …",
+                "title": "Easy Way to Convert OLM Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-way-to-convert-olm-files-to-pst\/8981\/3",
+                "author_name": "@arju",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/65b543\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770008649.000109",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

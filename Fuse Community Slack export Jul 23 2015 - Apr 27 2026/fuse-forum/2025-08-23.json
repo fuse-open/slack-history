@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Merge PDF Files? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to merge multiple PDF files, you can try the <https:\/\/www.emailprohelp.com\/eml-converter.html|SysInfo PDF Merge Tool>. It helps you quickly combine various PDF documents into one. It’s a user-friendly solution that saves time and effort. Whether you’re working with a few or dozens of PDFs, this tool is fast, reliable, and ensures your documents are merged effortlessly. With an intuitive interface, it’s perfect for …",
+                "title": "Best Method to Merge PDF Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-merge-pdf-files\/9103\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755948261.769249",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "How to Handle Performance Issues When Animations Run on Older Devices in Fuse? - @kayoj",
+                "text": "Hello\n\nWhile testing a Fuse-based app, I noticed that animations which run smoothly on modern devices start to lag or stutter on older phones. :slightly_smiling_face: This becomes more noticeable when multiple animations or transitions overlap, such as during screen changes with background effects. :innocent:\n\nI’ve optimized assets as much as possible, but I’m wondering if the issue is more about how the animations are structur…",
+                "title": "How to Handle Performance Issues When Animations Run on Older Devices in Fuse? [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-handle-performance-issues-when-animations-run-on-older-devices-in-fuse\/9105\/1",
+                "author_name": "@kayoj",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/k\/48db29\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755969732.608559",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1731305518.848569",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1731943187.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1731305518.848569",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1731943187.074439",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1731943160.646079"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1731943187.074439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1731305516,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "*Reasons:*\n\nSince all the primitive controls \/ components now supports native UI, We can switch the default rendering system for Android and iOS using Native Rendering instead of Graphics Rendering (OpenGL).\n\nThe benefits of switch it can increase application performances and reduce memory usages. And since we are working on Fuse version 3.0 I think this is also the perfect moment to do so.\n\n*The implications of switching*\n\nFor component that need to render in native UI such as `MapView` or `WebView` now it doesn't have to wrap it inside `NativeViewHost` tag. But if some part of the Application want to render using OpenGL because it using package from `Fuse.Effects` such as `Blur` for blurring image or video, it needs to be wrapped inside `GraphicsView`.\n\nFor users want to switch the default rendering back to the Graphics (OpenGL) they can by adding `ENABLE_IMPLICIT_GRAPHICSVIEW` flag when compiling, for example: `uno build ios -DENABLE_IMPLICIT_GRAPHICSVIEW`\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1502|#1502 Switch Default iOS and Android Rendering>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1502,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1502&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Switch Default iOS and Android Rendering&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

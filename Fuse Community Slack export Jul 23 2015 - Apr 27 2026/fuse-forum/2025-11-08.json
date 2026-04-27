@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Easily Export Multiple OLM File to PDF? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The MacSonik OLM to PDF Converter for Mac offers a quick and secure way to export multiple OLM files into PDF format. To start, install and open the tool on your Mac system. Add your OLM files using the Add File(s) or Add Folder option—this feature supports batch conversion, saving time and effort. After the files are loaded, click Next to view a preview of your emails and attachments. Select PDF …",
+                "title": "How to Easily Export Multiple OLM File to PDF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-easily-export-multiple-olm-file-to-pdf\/9311\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1762598651.412249",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

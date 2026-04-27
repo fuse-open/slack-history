@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy to convert NSF file to PST - @Romana (Romana Jackson)",
+                "text": "Hello there\n\nI recently used the Kernel for NSF to PST Converter tool to transfer my Notes data to Outlook, and it worked well.\n\nThe dashboard is easy to understand, and the conversion method went smoothly. :slightly_smiling_face:  All of my emails, contacts, and calendar data were saved well.\n\nI suggest this tool for anyone searching for a solid NSF to PST conversion.",
+                "title": "Easy to convert NSF file to PST [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-to-convert-nsf-file-to-pst\/8408\/2",
+                "author_name": "@Romana (Romana Jackson)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/romana\/45\/1121_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1718188919.058679",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

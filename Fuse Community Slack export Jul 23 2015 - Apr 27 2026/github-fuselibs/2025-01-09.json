@@ -1,0 +1,171 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1736423135.817859",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1736790928.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1736423135.817859",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1736790928.036169",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1736790922.365329"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1736790928.036169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1736423130,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "Adds couple native rendering improvement for:\n\n• fix bug on`&lt;Image \/&gt;` component on iOS when deal with image content alignment and component scaling (revert PR: <https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1341|#1341>)\n• fix bug when drawing a stroke on a`&lt;Circle \/&gt;` when the circle is not a full circle. For example:  \n```  \n&lt;Circle ux:Name=\"rotatingStroke\" Width=\"50\" Height=\"50\" StartAngleDegrees=\"-45\" EndAngleDegrees=\"45\"&gt;  \n    &lt;Stroke Width=\"2\" Color=\"Blue\" \/&gt;  \n&lt;\/Circle&gt;  \n```\n• Change implementation Shadow drawing `&lt;Shadow \/&gt;` on Android using Drawable instead of View's elevation property. Elevation property is messing up with Z-Index.\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1507|#1507 Fix bugs and Improve Native Rendering for Image, Circle and Shadow>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1507,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1507&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Fix bugs and Improve Native Rendering for Image, Circle and Shadow&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1736424602.575349",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1736537019.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1736424602.575349",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1736537407.806869",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1736537006.735089"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1736537019.688949"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1736537407.806869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1736424597,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "Introduce simple JavaScript `Blob` and `URL` Polyfill and improve `fetch` Polyfill. Add sanitary check on `Model.js`\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1508|#1508 add Blob &amp; URL Polyfill enhance fetch &amp; sanitary check>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1508,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1508&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;add Blob &amp;amp;amp; URL Polyfill enhance fetch &amp;amp;amp; sanitary check&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to convert NSF files into PST files? - @davidmiller (Weeom Software)",
+                "text": "There are many methods to convert NSF files into PST files. But choose the best method because your data is very precious. Here, is the most trusted tool to convert Weeom <https:\/\/www.weeom.com\/lotus-notes-to-outlook.php|Lotus notes to Outlook convertor> provides the every advanced features which you want to convert your precious data. This tool also provides various other file formats to convert data. Try this tool for yourself and experience the…",
+                "title": "How to convert NSF files into PST files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-nsf-files-into-pst-files\/8550\/1",
+                "author_name": "@davidmiller (Weeom Software)",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/davidmiller\/45\/1133_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1738661927.827699",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

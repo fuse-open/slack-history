@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Transfer Windows Live Mail to Gmail? - @alainaduffy",
+                "text": "To transfer Windows Live Mail to Gmail, try Softaken EML to Gmail Importer.",
+                "title": "How to Transfer Windows Live Mail to Gmail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-transfer-windows-live-mail-to-gmail\/9189\/4",
+                "author_name": "@alainaduffy",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/aeb1de\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764832203.032089",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

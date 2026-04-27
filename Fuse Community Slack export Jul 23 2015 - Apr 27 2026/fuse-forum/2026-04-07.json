@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Qucik Method to Move Sympatico Email to Gmail? - @alanabacon (Kelins)",
+                "text": "It also includes advanced filtering features that allow users to migrate only selected emails, making it a convenient solution for managing large mailboxes.",
+                "title": "Qucik Method to Move Sympatico Email to Gmail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/qucik-method-to-move-sympatico-email-to-gmail\/9582\/2",
+                "author_name": "@alanabacon (Kelins)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/9f8e36\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1775555907.953239",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

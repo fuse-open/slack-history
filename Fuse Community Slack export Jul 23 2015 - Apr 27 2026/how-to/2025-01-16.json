@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1737037445.016939",
+        "client_msg_id": "4cf1fd1f-c387-4701-a976-acf211b56b82",
+        "text": "Hello! Is it possible for EdgeNavigator to temporarily disable swipe gestures?",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTOY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Is it possible for EdgeNavigator to temporarily disable swipe gestures?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1710629913.819959",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1710679941.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1622616203,
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1710629913.819959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710679941.022279",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1710679941.022279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1710629911,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/docs] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/follow-redirects\/follow-redirects|follow-redirects> from 1.15.4 to 1.15.6.\n\nCommits\n\n• <https:\/\/github.com\/follow-redirects\/follow-redirects\/commit\/35a517c5861d79dc8bff7db8626013d20b711b06|`35a517c`> Release version 1.15.6 of the npm package.\n• <https:\/\/github.com\/follow-redirects\/follow-redirects\/commit\/c4f847f85176991f95ab9c88af63b1294de8649b|`c4f847f`> Drop Proxy-Authorization across hosts.\n• <https:\/\/github.com\/follow-redirects\/follow-redirects\/commit\/8526b4a1b2ab3a2e4044299377df623a661caa76|`8526b4a`> Use GitHub for disclosure.\n• <https:\/\/github.com\/follow-redirects\/follow-redirects\/commit\/b1677ce00110ee50dc5da576751d39b281fc4944|`b1677ce`> Release version 1.15.5 of the npm package.\n• <https:\/\/github.com\/follow-redirects\/follow-redirects\/commit\/d8914f7982403ea096b39bd594a00ee9d3b7e224|`d8914f7`> Preserve fragment in responseUrl.\n• See full diff in <https:\/\/github.com\/follow-redirects\/follow-redirects\/compare\/v1.15.4...v1.15.6|compare view>\n\n  \n\n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|Dependabot compatibility score>\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n* * *\n\nDependabot commands and options  \n\nYou can trigger Dependabot actions by commenting on this PR:\n\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot merge` will merge this PR after your CI passes on it\n• `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n• `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n• `@dependabot reopen` will reopen this PR if it is closed\n• `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n• `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)  \n    You can disable automated security fix PRs for this repo from the <https:\/\/github.com\/fuse-open\/docs\/network\/alerts|Security Alerts page>.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/fuse-open\/docs\/pull\/82|#82 build(deps-dev): bump follow-redirects from 1.15.4 to 1.15.6>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/docs|fuse-open\/docs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "dependencies, javascript",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;docs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:131993216,&amp;amp;quot;number&amp;amp;quot;:82,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/docs\/pull\/82&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump follow-redirects from 1.15.4 to 1.15.6&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

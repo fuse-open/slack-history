@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Recover Emails From Corrupt OST Files? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If your OST file becomes corrupt or inaccessible, you can easily recover your emails with the help of <https:\/\/www.emailprohelp.com\/ost-recovery-software.html|EmailProHelp OST File Recovery Software>. First, install and launch the tool on your Windows system, then add the damaged OST file. The software provides both Quick and Advanced scan modes to analyze corruption and recover data efficiently. Once the scan is complete, you can preview all mailbox ite…",
+                "title": "How to Recover Emails From Corrupt OST Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-recover-emails-from-corrupt-ost-files\/9129\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1756990028.562549",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

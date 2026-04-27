@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy to convert NSF file to PST - @Caroline1",
+                "text": "nice info  nice info nice info nice info nice info nioce infonice i fo",
+                "title": "Easy to convert NSF file to PST [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-to-convert-nsf-file-to-pst\/8408\/12",
+                "author_name": "@Caroline1",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/c\/53a042\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1742038851.287359",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

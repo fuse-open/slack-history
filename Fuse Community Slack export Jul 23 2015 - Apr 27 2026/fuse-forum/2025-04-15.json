@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Want to learn ChatGPT course from SkillWisdom - @peter",
+                "text": "I want to learn how to use ChatGPT to do cool things, so I found a course from SkillWisdom that looks great. It teaches you how to talk to AI and use it for stuff like writing or getting tasks done faster. It’s good for beginners or anyone who wants to get better. You learn by doing fun projects and the lessons are easy to follow.\n\nI like that I can study whenever I want and get a certificate when…",
+                "title": "Want to learn ChatGPT course from SkillWisdom [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/want-to-learn-chatgpt-course-from-skillwisdom\/8638\/1",
+                "author_name": "@peter",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/peter\/45\/1143_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1744703219.965879",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

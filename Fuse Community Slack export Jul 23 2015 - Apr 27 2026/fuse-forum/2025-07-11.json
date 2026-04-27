@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert MBOX to MSG Format? - @henrywalker",
+                "text": "If you want to convert MBOX files to MSG, then go with the MBOX File Converter Tool. This software allows users to migrate MBOX items like emails, contacts, calendars, tasks, journals, tables, etc., into Gmail, Yahoo, Office 365, Thunderbird, and other email clients efficiently. It also allows users to convert MBOX files to MSG, PST, PDF, EML, CSV, and many more. In addition to this, the software …",
+                "title": "How to Convert MBOX to MSG Format? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-mbox-to-msg-format\/8748\/2",
+                "author_name": "@henrywalker",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/henrywalker\/45\/1171_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1752219010.593719",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Split Large PDF Files? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to split large PDF files, you can try the <https:\/\/www.sysinfotools.com\/recovery\/pdf-split.php|SysInfo PDF Splitter Tool>. It effectively splits large PDF files into smaller segments using various methods, including precise page counts, specific sizes, custom page ranges, or isolating odd\/even pages and individual pages. The tool supports batch processing, guarantees the preservation of original formatting and data i…",
+                "title": "How to Split Large PDF Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-split-large-pdf-files\/8849\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1752239243.529609",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

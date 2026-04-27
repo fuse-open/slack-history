@@ -1,0 +1,12 @@
+[
+    {
+        "user": "USLACKBOT",
+        "subtype": "welcome_party",
+        "welcome_party_user_id": "U0AGD9EBJJ2",
+        "type": "message",
+        "ts": "1772520331.755369",
+        "bot_id": "BSLACKBOT",
+        "text": "<@U0AGD9EBJJ2> joined #github-fuselibs. They’re also new to Fuse Community.",
+        "team": "T08325737"
+    }
+]

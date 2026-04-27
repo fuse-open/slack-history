@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Transfer Windows Live Mail to Gmail? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Transferring Windows Live Mail emails to Gmail is quick and simple with MacSonik EML Converter. The tool lets you upload and preview your EML files to verify data accuracy before starting the migration. Once verified, choose Gmail as the saving option, sign in with your Gmail credentials, and use the available filters to migrate only selected emails by date, subject, or sender. MacSonik EML Conver…",
+                "title": "How to Transfer Windows Live Mail to Gmail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-transfer-windows-live-mail-to-gmail\/9189\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758189373.102619",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Top digital marketing companies to promote your business - @amitchandel",
+                "text": "Thanks for the information.",
+                "title": "Top digital marketing companies to promote your business [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/top-digital-marketing-companies-to-promote-your-business\/8573\/3",
+                "author_name": "@amitchandel",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/e9c0ed\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758261124.898539",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert DBX File to PST? - @Samantha23",
+                "text": "Few days ago, I faced same issue but my friend suggest me to use Softaken DBX to PST Converter Software to convert DBX to PST file which is perfect for all users. It easy and safe solution. You can also try the tool.",
+                "title": "How to Convert DBX File to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-dbx-file-to-pst\/8756\/5",
+                "author_name": "@Samantha23",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/f08c70\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1766473804.970319",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

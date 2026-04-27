@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Android-build-tools can't find JDK - @lakexyde (Olalekan)",
+                "text": "Problem with installing android-build-tools on Mac.\n\nrunning java -version returns:\n\njava version \"22.0.1\" 2024-04-16\n\nJava(TM) SE Runtime Environment (build 22.0.1+8-16)\n\nJava HotSpot(TM) 64-Bit Server VM (build 22.0.1+8-16, mixed mode, sharing)\n\njavac -version returns:\n\njavac 22.0.1\n\nIs there any way workaround to this. I also install openjdk using brew, temurin and version 21 from Oracle website,…",
+                "title": "Android-build-tools can't find JDK [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/android-build-tools-cant-find-jdk\/8452\/1",
+                "author_name": "@lakexyde (Olalekan)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/f05b48\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1727958768.417969",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Transfer OLM Files to PDF? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to transfer OLM files to PDF, then you can use the <https:\/\/www.sysinfotools.com\/olm-converter.php|SysInfo OLM Converter Tool>. It can export all your mailbox items—from emails and contacts to calendars and tasks—into a range of popular formats like PST, MBOX, and PDF. The software is specifically designed for professional use, ensuring there are no file size limitations. You can also preview files before conversi…",
+                "title": "How to Transfer OLM Files to PDF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-transfer-olm-files-to-pdf\/9065\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755512619.666339",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OST Files to PST? - @herryjons",
+                "text": "to convert OST files to PST format without any hassle with help of the TrustVare OST to PST Converter Software, which is an expert solution. You can convert bulk OST emails to PST without data loss. It supports all Windows OS and Outlook versions. You can also try the demo version for free. It is safe and secure software for OST to PST conversion.",
+                "title": "How to Convert OST Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-ost-files-to-pst\/8727\/2",
+                "author_name": "@herryjons",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/h\/c6cbf5\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755512700.937509",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

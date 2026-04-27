@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup AOL Mail Account Data? - @meshelwillson (meshel)",
+                "text": "There are many methos for backup AOL Mail account data, you can do it manually but it too time-consuming. You can try the best tool like GainTools AOL Backup Tool which can backup your AOL mail data without any issues and save in local system. The software transfer data in multiple file formats like PST, MSG, MBOX, and EML. You can try the free demo versions before buying this tool.",
+                "title": "How to Backup AOL Mail Account Data? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-aol-mail-account-data\/9020\/2",
+                "author_name": "@meshelwillson (meshel)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/7993a0\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1774674793.716409",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

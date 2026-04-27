@@ -1,0 +1,270 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1722732267.331049",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1722750221.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1722732267.331049",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1722805554.233969",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1722750212.161939"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1722750221.000999"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1722805554.233969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1722732265,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "Fix regression introduced in <https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1268|#1268> where ScrollView are not able to nested with another ScrollView with horizontal orientation (horizontal scrolling is not worked)\n\nuse case:\n\n```\n&lt;App&gt;\n\t&lt;ClientPanel&gt;\n\t\t&lt;ScrollView&gt;\n\t\t\t&lt;StackPanel ItemSpacing=\"10\"&gt;\n\t\t\t\t&lt;Each Count=\"5\"&gt;\n\t\t\t\t\t&lt;Panel Height=\"60\" ux:Name=\"p\" Color=\"#ccc\"&gt;\n\t\t\t\t\t\t&lt;Clicked&gt;\n\t\t\t\t\t\t\t&lt;Scale Factor=\"2\" Duration=\"0.2\" \/&gt;\n\t\t\t\t\t\t&lt;\/Clicked&gt;\n\t\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t&lt;\/Each&gt;\n\t\t\t\t&lt;Panel Height=\"100\"&gt;\n\t\t\t\t\t&lt;ScrollView AllowedScrollDirections=\"Horizontal\"&gt;\n\t\t\t\t\t\t&lt;StackPanel ItemSpacing=\"10\" Orientation=\"Horizontal\"&gt;\n\t\t\t\t\t\t\t&lt;Each Count=\"10\"&gt;\n\t\t\t\t\t\t\t\t&lt;Panel Height=\"100\" Width=\"100\" ux:Name=\"p\" Color=\"#0f0\"&gt;\n\t\t\t\t\t\t\t\t\t&lt;Clicked&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;Scale Factor=\"2\" Duration=\"0.2\" \/&gt;\n\t\t\t\t\t\t\t\t\t&lt;\/Clicked&gt;\n\t\t\t\t\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t\t\t\t&lt;\/Each&gt;\n\t\t\t\t\t\t&lt;\/StackPanel&gt;\n\t\t\t\t\t&lt;\/ScrollView&gt;\n\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t&lt;Each Count=\"15\"&gt;\n\t\t\t\t\t&lt;Panel Height=\"60\" ux:Name=\"p\" Color=\"#ccc\"&gt;\n\t\t\t\t\t\t&lt;Clicked&gt;\n\t\t\t\t\t\t\t&lt;Scale Factor=\"2\" Duration=\"0.2\" \/&gt;\n\t\t\t\t\t\t&lt;\/Clicked&gt;\n\t\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t&lt;\/Each&gt;\n\t\t\t&lt;\/StackPanel&gt;\n\t\t&lt;\/ScrollView&gt;\t\t\n\t&lt;\/ClientPanel&gt;\n&lt;\/App&gt;\n\n```\n\nRun with : `uno build android -DDISABLE_IMPLICIT_GRAPHICSVIEW --run`\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500|#1500 Fix Android native ScrollView where nested with horizontal ScrollView>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1500,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Fix Android native ScrollView where nested with horizontal ScrollView&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1722750212.161939",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1722732267.331049",
+        "parent_user_id": "U024ET51BLG",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1722750210,
+                "color": "36a64f",
+                "fallback": "[fuse-open\/fuselibs] Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/ichan-mb|ichan-mb's> pull request",
+                "pretext": "Review approved by <https:\/\/github.com\/mortend|mortend> on <https:\/\/github.com\/ichan-mb|ichan-mb's> pull request",
+                "title": "Review on #1500 Fix Android native ScrollView where nested with horizontal ScrollView",
+                "title_link": "https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500#pullrequestreview-2217427702",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1722750220.327679",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 2 new commits pushed to _master_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/719400bdfff88daf08f26ee561a2030b6b3f3ae5|719400bd>` - Fix nested scrolling with horizontal scrollview\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/0a3a11a73720381cd586c895f0b2a5896323678e|0a3a11a7>` - Merge pull request #1500 from ichan-mb\/develop",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/522f77b50ab2...0a3a11a73720|2 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/master|master>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B023X8DUEHJ",
+        "thread_ts": "1722732267.331049",
+        "root": {
+            "user": "U024ET51BLG",
+            "type": "message",
+            "ts": "1722732267.331049",
+            "edited": {
+                "user": "B023X8DUEHJ",
+                "ts": "1722750221.000000"
+            },
+            "bot_id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T08325737",
+            "bot_profile": {
+                "id": "B023X8DUEHJ",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U024ET51BLG",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1622616203,
+                "team_id": "T08325737"
+            },
+            "thread_ts": "1722732267.331049",
+            "reply_count": 3,
+            "reply_users_count": 1,
+            "latest_reply": "1722805554.233969",
+            "reply_users": [
+                "U024ET51BLG"
+            ],
+            "replies": [
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1722750212.161939"
+                },
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1722750221.000999"
+                },
+                {
+                    "user": "U024ET51BLG",
+                    "ts": "1722805554.233969"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1722732265,
+                    "color": "6f42c1",
+                    "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                    "text": "Fix regression introduced in <https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1268|#1268> where ScrollView are not able to nested with another ScrollView with horizontal orientation (horizontal scrolling is not worked)\n\nuse case:\n\n```\n&lt;App&gt;\n\t&lt;ClientPanel&gt;\n\t\t&lt;ScrollView&gt;\n\t\t\t&lt;StackPanel ItemSpacing=\"10\"&gt;\n\t\t\t\t&lt;Each Count=\"5\"&gt;\n\t\t\t\t\t&lt;Panel Height=\"60\" ux:Name=\"p\" Color=\"#ccc\"&gt;\n\t\t\t\t\t\t&lt;Clicked&gt;\n\t\t\t\t\t\t\t&lt;Scale Factor=\"2\" Duration=\"0.2\" \/&gt;\n\t\t\t\t\t\t&lt;\/Clicked&gt;\n\t\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t&lt;\/Each&gt;\n\t\t\t\t&lt;Panel Height=\"100\"&gt;\n\t\t\t\t\t&lt;ScrollView AllowedScrollDirections=\"Horizontal\"&gt;\n\t\t\t\t\t\t&lt;StackPanel ItemSpacing=\"10\" Orientation=\"Horizontal\"&gt;\n\t\t\t\t\t\t\t&lt;Each Count=\"10\"&gt;\n\t\t\t\t\t\t\t\t&lt;Panel Height=\"100\" Width=\"100\" ux:Name=\"p\" Color=\"#0f0\"&gt;\n\t\t\t\t\t\t\t\t\t&lt;Clicked&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;Scale Factor=\"2\" Duration=\"0.2\" \/&gt;\n\t\t\t\t\t\t\t\t\t&lt;\/Clicked&gt;\n\t\t\t\t\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t\t\t\t&lt;\/Each&gt;\n\t\t\t\t\t\t&lt;\/StackPanel&gt;\n\t\t\t\t\t&lt;\/ScrollView&gt;\n\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t&lt;Each Count=\"15\"&gt;\n\t\t\t\t\t&lt;Panel Height=\"60\" ux:Name=\"p\" Color=\"#ccc\"&gt;\n\t\t\t\t\t\t&lt;Clicked&gt;\n\t\t\t\t\t\t\t&lt;Scale Factor=\"2\" Duration=\"0.2\" \/&gt;\n\t\t\t\t\t\t&lt;\/Clicked&gt;\n\t\t\t\t\t&lt;\/Panel&gt;\n\t\t\t\t&lt;\/Each&gt;\n\t\t\t&lt;\/StackPanel&gt;\n\t\t&lt;\/ScrollView&gt;\t\t\n\t&lt;\/ClientPanel&gt;\n&lt;\/App&gt;\n\n```\n\nRun with : `uno build android -DDISABLE_IMPLICIT_GRAPHICSVIEW --run`\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                    "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500|#1500 Fix Android native ScrollView where nested with horizontal ScrollView>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                    "fields": [
+                        {
+                            "value": "<https:\/\/github.com\/mortend|@mortend>",
+                            "title": "Reviewers",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1500,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Fix Android native ScrollView where nested with horizontal ScrollView&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1722750221.000999",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1722732265,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request merged by mortend",
+                "pretext": "Pull request merged by <https:\/\/github.com\/mortend|mortend>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1500|#1500 Fix Android native ScrollView where nested with horizontal ScrollView>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>"
+            }
+        ]
+    }
+]

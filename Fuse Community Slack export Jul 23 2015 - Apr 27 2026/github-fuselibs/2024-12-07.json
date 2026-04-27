@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1733644663.913109",
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[fuse-open\/fuselibs] 20 new commits pushed to _beta-3.0_ by mortend",
+                "text": "`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/d5b7507b4d0b1d5f9698c58263ce43122b4766a7|d5b7507b>` - iOS fix crash bugs on removing shadow\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/c7f6068fbfe4f18917c3fa494401498f8a5dffd6|c7f6068f>` - Merge pull request #1498 from ichan-mb\/develop\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/28269b3401ec890f6a40c5124f98540109fe2684|28269b34>` - fix android 13 permissions\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/522f77b50ab24dbe9e792303960402cab2a5a31e|522f77b5>` - Merge pull request #1499 from ichan-mb\/develop\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/719400bdfff88daf08f26ee561a2030b6b3f3ae5|719400bd>` - Fix nested scrolling with horizontal scrollview\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/0a3a11a73720381cd586c895f0b2a5896323678e|0a3a11a7>` - Merge pull request #1500 from ichan-mb\/develop\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/a37867130866ddd4c1ebfc1e38845050a05fd477|a3786713>` - Native VIdeo Component\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/38ceeb904afa52e46037fec3882f2319c159667f|38ceeb90>` - Merge pull request #1501 from ichan-mb\/develop\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/7bd15a054de4598d4e64f8439787c1a4018f90d5|7bd15a05>` - Switch Default iOS and Android Rendering\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/7e37a54b7d130e2f770a8444734e878a080bbdde|7e37a54b>` - Merge pull request #1502 from ichan-mb\/develop\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/a3281e8265b0893709922a9557c65ae010473790|a3281e82>` - Native Slider Android: fix bug recursive setting value\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/9d21fa0cf472de8c28fc30119c357d83dabd7f42|9d21fa0c>` - fix memory leaks\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/e95393f954aaadcaf7c7e33dc4c509ac6cf10a26|e95393f9>` - Merge pull request #1503 from ichan-mb\/fix_map\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/7425157251bdea79801502fdfea9ff8a87871d48|74251572>` - Merge pull request #1504 from ichan-mb\/develop\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/3c12078573bdac9dbf97b531416e95b3f5a26947|3c120785>` - add container to fix padding\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/38ae0bb2888fddc749de30c71682603851739db7|38ae0bb2>` - android fix crash on layout transformation\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/a4d3d0a2127d4b1420bf9c2466b131af793a6774|a4d3d0a2>` - Merge pull request #1505 from ichan-mb\/fix_scrollview\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/84a434c39efa87bba7b3a6354ea2552d7e4f1307|84a434c3>` - Merge pull request #1506 from ichan-mb\/fix_layout_calculation\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/bd49dcd76633c74d7a69bcc9967028e387e95335|bd49dcd7>` - @fuse-open\/uno -&gt; 3.0.0-beta.11\n`<https:\/\/github.com\/fuse-open\/fuselibs\/commit\/baa74f92fdccafca87cc9181203ed35fc27dd73f|baa74f92>` - npm upgrade",
+                "pretext": "<https:\/\/github.com\/fuse-open\/fuselibs\/compare\/9218c3e790a1...baa74f92fdcc|20 new commits> pushed to `<https:\/\/github.com\/fuse-open\/fuselibs\/tree\/beta-3.0|beta-3.0>` by <https:\/\/github.com\/mortend|mortend>",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

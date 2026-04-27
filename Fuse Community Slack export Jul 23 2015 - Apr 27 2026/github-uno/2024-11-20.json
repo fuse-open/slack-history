@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1732166071.225139",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1732703883.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1622616203,
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1732166071.225139",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1732703883.262849",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1732703883.262849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1732166068,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/uno] Pull request opened by ichan-mb",
+                "text": "*Android:*\n\nThis commit bump minimum Android SDK now 21 and target SDK 34, and also upgrade Gradle version to 8.1.4 and more Kotlin Supports.\n\n*iOS:*\n\nThis commit bump minimum iOS version to 13 and Swift version to 5.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/uno\/pull\/525|#525 Bump min version of Android and iOS and upgrade Kotlin and Swift version>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/uno|fuse-open\/uno>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;uno&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:128380862,&amp;amp;quot;number&amp;amp;quot;:525,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/uno\/pull\/525&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Bump min version of Android and iOS and upgrade Kotlin and Swift version&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

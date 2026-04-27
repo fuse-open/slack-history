@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OLM File to MBOX? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to convert OLM files to MBOX, then you can use the <https:\/\/www.sysinfotools.com\/olm-converter.php|SysInfo OLM Converter Tool>.  It exports all OLM objects emails, contacts, calendars, and more to PST, MBOX, EML, and MSG formats. Key features include unlimited file size support, a date filter, and a preview function. Fully compatible with all Windows operating systems.",
+                "title": "How to Convert OLM File to MBOX? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-olm-file-to-mbox\/8932\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753359104.673129",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

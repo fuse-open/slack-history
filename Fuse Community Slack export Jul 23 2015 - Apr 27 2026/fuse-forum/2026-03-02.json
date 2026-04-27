@@ -1,0 +1,33 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to send content (UX Markup or HTML\/CSS) to Print? - @sunilkumar",
+                "text": "Thank you for this information.",
+                "title": "How to send content (UX Markup or HTML\/CSS) to Print? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-send-content-ux-markup-or-html-css-to-print\/7964\/4",
+                "author_name": "@sunilkumar",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/b4bc9f\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1772444602.397929",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AGD9EBJJ2",
+        "text": "<@U0AGD9EBJJ2> has joined the channel",
+        "type": "message",
+        "ts": "1772520355.698959"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert PST Files to HTML? - @wilaimwill",
+                "text": "To convert PST files into HTML file format, using TrustVare PST to HTML Converter Tool. Supports all Windows OS versions.",
+                "title": "How to Convert PST Files to HTML? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-pst-files-to-html\/8701\/3",
+                "author_name": "@wilaimwill",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/w\/f07891\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1763985188.076779",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

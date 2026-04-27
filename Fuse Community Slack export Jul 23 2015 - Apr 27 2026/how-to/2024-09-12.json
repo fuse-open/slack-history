@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726125419.375499",
+        "client_msg_id": "763c07bc-a177-418b-ba6a-cb4c42730d8d",
+        "text": "Also the combination of WhileVisibleInScrollView with Callback causes crashes when list gets repopulated: <https:\/\/forums.fusetools.com\/t\/visual-value-was-null\/5948>",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/global.discourse-cdn.com\/standard17\/uploads\/fusetools1\/original\/1X\/f90ba542f6ce059dd9fc821d68dd19b591e6ebac.jpeg",
+                "image_width": 285,
+                "image_height": 150,
+                "image_bytes": 25945,
+                "from_url": "https:\/\/forums.fusetools.com\/t\/visual-value-was-null\/5948",
+                "service_icon": "https:\/\/global.discourse-cdn.com\/standard17\/uploads\/fusetools1\/optimized\/1X\/11efbfa7e86529ad75a23a770882fa38ea764274_2_180x180.jpeg",
+                "ts": 1511359538,
+                "id": 1,
+                "original_url": "https:\/\/forums.fusetools.com\/t\/visual-value-was-null\/5948",
+                "fallback": "Fuse Community: Visual: value was null",
+                "text": "Hi, Fuse 1.4.0, MacOS Sierra 10.12.6 I’ve has some issues with an “visual: value was null” lately, making the preview to crash. The message is as follows: Error: Uno.ArgumentNullException: visual: value was null at Fuse.VisualEventArgs..ctor(Fuse.Visual) at Fuse.Triggers.Actions.Callback.Perform(Fuse.Node) at Fuse.Triggers.Actions.TriggerAction.PerformFromNode(Fuse.Node) at Fuse.Triggers.Trigger.DeferredItem.Perform() at Fuse.UpdateAction.Invoke() at Fuse.UpdateManager.Proc...",
+                "title": "Visual: value was null",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/visual-value-was-null\/5948",
+                "service_name": "Fuse Community"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzpE9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also the combination of WhileVisibleInScrollView with Callback causes crashes when list gets repopulated: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forums.fusetools.com\/t\/visual-value-was-null\/5948"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1726125627.234479",
+        "client_msg_id": "afbe2ad8-554d-4818-a58a-e769cd36212f",
+        "text": "Any alternatives to WhileVisibleInScrollView?",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ErOyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any alternatives to WhileVisibleInScrollView?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

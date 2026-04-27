@@ -1,0 +1,40 @@
+[
+    {
+        "user": "UL0LYUFD5",
+        "type": "message",
+        "ts": "1771629308.717059",
+        "client_msg_id": "AE093F4A-20CC-4E3A-A3DF-7C1AF364907A",
+        "text": " this project is definitely dead? too bad.",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "4941a376cdee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6194058202119_4941a376cdeed8448141_72.png",
+            "first_name": "Armando",
+            "real_name": "Armando",
+            "display_name": "Armando",
+            "team": "T08325737",
+            "name": "amshare",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8iv2N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " this project is definitely dead? too bad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

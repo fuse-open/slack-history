@@ -1,0 +1,90 @@
+[
+    {
+        "text": "<@UBA6KD8JK> <@U108NS4VA> <@USWMEHU3X> have some issues with last version of FuseOpen.\nAll elements inside NativeViewHost tag doesn't Work properly\n• MapView properties like allowscroll, allowrotate doesn't work, I can't scroll or rotate the maps on Android devices \n• TimePicker has the same issues \nUsing Uno 2.9.2 on windows 11 x64",
+        "files": [
+            {
+                "id": "F06L9LECL94",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U1Z5FQXFU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obF+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UBA6KD8JK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U108NS4VA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "USWMEHU3X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have some issues with last version of FuseOpen.\nAll elements inside NativeViewHost tag doesn't Work properly\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MapView properties like allowscroll, allowrotate doesn't work, I can't scroll or rotate the maps on Android devices "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "TimePicker has the same issues "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Using Uno 2.9.2 on windows 11 x64"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1708804816.562109",
+        "client_msg_id": "f9fd7170-d77f-4fb9-aab4-2acf4c1af768"
+    }
+]

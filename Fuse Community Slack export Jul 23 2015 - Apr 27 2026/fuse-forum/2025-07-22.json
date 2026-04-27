@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Merge Multiple PST Files into Single PST File? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to merge multiple PST files into single PST, you can use the <https:\/\/www.sysinfotools.com\/recovery\/pst-merge.php|SysInfo PST Merge Tool>. This powerful tool effectively combines emails, contacts, calendars, and tasks from multiple Outlook Data files into a single, larger PST file. It’s the ideal solution for consolidating numerous smaller PSTs. Key features include the ability to eliminate duplicate emails, exclude at…",
+                "title": "How to Merge Multiple PST Files into Single PST File? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-merge-multiple-pst-files-into-single-pst-file\/8922\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753183602.588119",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Failed to connect to local server using fetch - @Romana (Romana Jackson)",
+                "text": "Hello <https:\/\/forums.fusetools.com\/u\/mutala|@Mutala>\n\nMake sure your network works properly.",
+                "title": "Failed to connect to local server using fetch [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/failed-to-connect-to-local-server-using-fetch\/8353\/2",
+                "author_name": "@Romana (Romana Jackson)",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/romana\/45\/1121_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717942170.088879",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

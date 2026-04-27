@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How do I backup IMAP emails to PST file without data loss? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Exporting IMAP emails to PST without data loss can be done efficiently using the Cigati IMAP Backup Tool, a reliable solution designed for secure email backup and migration. This tool allows users to connect to their IMAP-based email accounts such as Gmail, Yahoo, or Outlook by entering valid login credentials and server details, after which it loads the complete mailbox with all folders. Users ca…",
+                "title": "How do I backup IMAP emails to PST file without data loss? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-do-i-backup-imap-emails-to-pst-file-without-data-loss\/9641\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1776255176.431309",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

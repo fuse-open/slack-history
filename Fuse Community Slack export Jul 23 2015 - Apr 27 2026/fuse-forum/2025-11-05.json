@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert OneNote to EXCEL? - @mohdkaif002 (Mohd Kaif)",
+                "text": "You can easily convert OneNote to Excel using the MacSonik OneNote Converter Tool for Mac. Simply launch the tool, add your OneNote files, select Excel (XLSX) as the saving format, choose the destination path, and click Convert. This tool supports batch conversion, maintains data integrity and folder hierarchy, and offers advanced filters like date range and duplicate removal. It also allows direc…",
+                "title": "How to Convert OneNote to EXCEL? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-onenote-to-excel\/9304\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1762344613.561589",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U5V39DX27",
+        "thread_ts": "1730481547.852179",
+        "root": {
+            "user": "UL0LYUFD5",
+            "type": "message",
+            "ts": "1730481547.852179",
+            "client_msg_id": "f8b63097-c7ce-4610-a2c5-cd7c157ad012",
+            "text": "Hi developers, I would like to inform you that in version 2.9.2 of fuselibs the InterApp.launchUri - InterApp.launchApp API on iOS no longer works (iOS18).\n\nI needed to update the following line in the iOSInterop.uno file:\n\n-- [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri]];\n\n++ [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri] options:dict completionHandler:nil];\n\nI hope this helps.",
+            "team": "T08325737",
+            "thread_ts": "1730481547.852179",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1736400168.418609",
+            "reply_users": [
+                "U5V39DX27",
+                "UL0LYUFD5"
+            ],
+            "replies": [
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736360507.982419"
+                },
+                {
+                    "user": "UL0LYUFD5",
+                    "ts": "1736370728.939619"
+                },
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736396854.144249"
+                },
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736397487.147449"
+                },
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736400168.418609"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SdkTL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi developers, I would like to inform you that in version 2.9.2 of fuselibs the InterApp.launchUri - InterApp.launchApp API on iOS no longer works (iOS18).\n\nI needed to update the following line in the iOSInterop.uno file:\n\n-- [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri]];\n\n++ [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri] options:dict completionHandler:nil];\n\nI hope this helps."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1736360507.982419",
+        "client_msg_id": "bd341b58-5311-44ab-9fe4-659d3ca05d2e",
+        "text": "Hello! I have globally installed Fuselibs on my Mac in \/usr\/local\/lib\/node_modules\/fuse-sdk\/node_modules\/@fuse-open\/fuselibs\/, but when I make changes there, it does not reflect to the built project even though I run \"uno clean\" and \"uno doctor\" in the project folder. I cloned the Fuselibs repo to a separate folder, but how do I assign the project to use that folder instead of the globally installed version?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/Xux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! I have globally installed Fuselibs on my Mac in \/usr\/local\/lib\/node_modules\/fuse-sdk\/node_modules\/@fuse-open\/fuselibs\/, but when I make changes there, it does not reflect to the built project even though I run \"uno clean\" and \"uno doctor\" in the project folder. I cloned the Fuselibs repo to a separate folder, but how do I assign the project to use that folder instead of the globally installed version?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UL0LYUFD5",
+        "type": "message",
+        "ts": "1736370728.939619",
+        "client_msg_id": "68674191-cbaf-4bba-8b04-db658acf7811",
+        "text": "Hi,\nyou need to create  .`unoconfig` file in your project directory to point to the cloned sources of fuselibs.\n\n`.unoconfig` (example content)\n\n```Packages.SourcePaths : [\n      ..\/fuselibs\/Source\n]```\nin the example above the \"fuselibs\" directory\nit's at the same level as the project folder and the path indicated is relative.\n\nit is necessary to execute \"uno doctor\" after every modification to the source.\n\ncheck your current configuration by running \"uno config\" in your project directory.\n\nit might help you further:\n\n<https:\/\/forums.fusetools.com\/t\/step-by-step-installation-fuse\/7828>",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "4941a376cdee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6194058202119_4941a376cdeed8448141_72.png",
+            "first_name": "Armando",
+            "real_name": "Armando",
+            "display_name": "Armando",
+            "team": "T08325737",
+            "name": "amshare",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730481547.852179",
+        "parent_user_id": "UL0LYUFD5",
+        "attachments": [
+            {
+                "image_url": "https:\/\/global.discourse-cdn.com\/flex035\/uploads\/fusetools1\/original\/1X\/f90ba542f6ce059dd9fc821d68dd19b591e6ebac.jpeg",
+                "image_width": 285,
+                "image_height": 150,
+                "image_bytes": 25945,
+                "from_url": "https:\/\/forums.fusetools.com\/t\/step-by-step-installation-fuse\/7828",
+                "service_icon": "https:\/\/global.discourse-cdn.com\/flex035\/uploads\/fusetools1\/optimized\/1X\/11efbfa7e86529ad75a23a770882fa38ea764274_2_180x180.jpeg",
+                "ts": 1564473469,
+                "id": 1,
+                "original_url": "https:\/\/forums.fusetools.com\/t\/step-by-step-installation-fuse\/7828",
+                "fallback": "Fuse Community: Step by step installation Fuse",
+                "text": "Hi Everybody, i am a newbie in Fuse…can somebody tell step by step to install fuse and another requirement until ready to start code…thanks before…your help so meaningful…i really really want to learn code with fuse",
+                "title": "Step by step installation Fuse",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/step-by-step-installation-fuse\/7828",
+                "service_name": "Fuse Community",
+                "fields": [
+                    {
+                        "value": "1 mins :clock2:",
+                        "title": "Reading time",
+                        "short": true
+                    },
+                    {
+                        "value": "2 :heart:",
+                        "title": "Likes",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXgiG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi,\nyou need to create  ."
+                            },
+                            {
+                                "type": "text",
+                                "text": "unoconfig",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file in your project directory to point to the cloned sources of fuselibs.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".unoconfig",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (example content)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Packages.SourcePaths : [\n      ..\/fuselibs\/Source\n]"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nin the example above the \"fuselibs\" directory\nit's at the same level as the project folder and the path indicated is relative.\n\nit is necessary to execute \"uno doctor\" after every modification to the source.\n\ncheck your current configuration by running \"uno config\" in your project directory.\n\nit might help you further:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forums.fusetools.com\/t\/step-by-step-installation-fuse\/7828"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U5V39DX27",
+        "thread_ts": "1730481547.852179",
+        "root": {
+            "user": "UL0LYUFD5",
+            "type": "message",
+            "ts": "1730481547.852179",
+            "client_msg_id": "f8b63097-c7ce-4610-a2c5-cd7c157ad012",
+            "text": "Hi developers, I would like to inform you that in version 2.9.2 of fuselibs the InterApp.launchUri - InterApp.launchApp API on iOS no longer works (iOS18).\n\nI needed to update the following line in the iOSInterop.uno file:\n\n-- [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri]];\n\n++ [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri] options:dict completionHandler:nil];\n\nI hope this helps.",
+            "team": "T08325737",
+            "thread_ts": "1730481547.852179",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1736400168.418609",
+            "reply_users": [
+                "U5V39DX27",
+                "UL0LYUFD5"
+            ],
+            "replies": [
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736360507.982419"
+                },
+                {
+                    "user": "UL0LYUFD5",
+                    "ts": "1736370728.939619"
+                },
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736396854.144249"
+                },
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736397487.147449"
+                },
+                {
+                    "user": "U5V39DX27",
+                    "ts": "1736400168.418609"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SdkTL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi developers, I would like to inform you that in version 2.9.2 of fuselibs the InterApp.launchUri - InterApp.launchApp API on iOS no longer works (iOS18).\n\nI needed to update the following line in the iOSInterop.uno file:\n\n-- [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri]];\n\n++ [[UIApplication sharedApplication] openURL:[NSURL URLWithString:uri] options:dict completionHandler:nil];\n\nI hope this helps."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1736396854.144249",
+        "client_msg_id": "ebe696fc-40af-44ab-8587-c5a1f5d403e4",
+        "text": "Thanks a million for the reply! However when I run \"uno doctor\", I get this error message: ERROR: Failed to load ..\/fuselibs\/Source\/Polyfills.Window\/Polyfills.Window.unoproj: Invalid array 'projects'. (pass --trace for stack trace)",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHzoj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a million for the reply! However when I run \"uno doctor\", I get this error message: ERROR: Failed to load ..\/fuselibs\/Source\/Polyfills.Window\/Polyfills.Window.unoproj: Invalid array 'projects'. (pass --trace for stack trace)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1736397487.147449",
+        "client_msg_id": "071f7629-8da5-4889-bdf6-d5b7cec7c3d8",
+        "text": "My Uno was 2.9.3 and I cloned the beta3 version of Fuselibs, but after checking out 2.9.2 of Fuselibs in the cloned repo I get error message:\n\n..\/fuselibs\/Source\/Fuse.Platform\/Fuse.Platform.unoproj: E0100: Package UnoCore was not found ..\/fuselibs\/Source\/Fuse.Platform\/InterApp.uno(1.7): E3114: There is nothing named Uno accessible in this scope. Are you missing a package reference?",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730481547.852179",
+        "parent_user_id": "UL0LYUFD5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RObFP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My Uno was 2.9.3 and I cloned the beta3 version of Fuselibs, but after checking out 2.9.2 of Fuselibs in the cloned repo I get error message:\n\n..\/fuselibs\/Source\/Fuse.Platform\/Fuse.Platform.unoproj: E0100: Package UnoCore was not found ..\/fuselibs\/Source\/Fuse.Platform\/InterApp.uno(1.7): E3114: There is nothing named Uno accessible in this scope. Are you missing a package reference?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5V39DX27",
+        "type": "message",
+        "ts": "1736400168.418609",
+        "client_msg_id": "31f5d8a8-11aa-44b5-985e-776c83c2a344",
+        "text": "I didn't get this to work, but I fixed the openURL method manually from Xcode by editing Fuse.iOS.Bindings.g. Seems kinda dirty, but works. :man-shrugging:",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "438a97b83fd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/199507419285_438a97b83fd757d9486a_72.jpg",
+            "first_name": "Matti",
+            "real_name": "Matti Tihveräinen",
+            "display_name": "orteidni",
+            "team": "T08325737",
+            "name": "orteidni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730481547.852179",
+        "parent_user_id": "UL0LYUFD5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1gAo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't get this to work, but I fixed the openURL method manually from Xcode by editing Fuse.iOS.Bindings.g. Seems kinda dirty, but works. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging",
+                                "unicode": "1f937-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

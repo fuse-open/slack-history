@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Fix Outlook Error 0x800CCC0E? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Outlook Error 0x800CCC0E typically occurs when Microsoft Outlook is unable to connect to the mail server, often due to incorrect server settings, connectivity issues, or corruption in the PST file. When the problem is caused by a damaged data file, using the Cigati Outlook PST Repair Tool can help resolve it efficiently. The tool allows you to load the corrupted PST file, perform a deep scan to id…",
+                "title": "Best Method to Fix Outlook Error 0x800CCC0E? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-fix-outlook-error-0x800ccc0e\/9649\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1776766509.287879",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Debug using fuse preview? - @elinasadiq",
+                "text": "Hello,\n\nThanks for asking this.",
+                "title": "Debug using fuse preview? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/debug-using-fuse-preview\/6802\/5",
+                "author_name": "@elinasadiq",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/elinasadiq\/45\/1125_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1720856899.129279",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

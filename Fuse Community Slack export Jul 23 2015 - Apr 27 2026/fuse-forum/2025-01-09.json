@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "f3d748",
+                "fallback": "Amplify - Podcast App Built Using Fuse - @Hassan_M",
+                "text": "Hi <https:\/\/forums.fusetools.com\/u\/lakexyde|@lakexyde>, Congratulations for the release of the App, I’ve tried the app and it’s so slick with very nice UI Layouts. The player podcast screen is what I like the most of the UI, with clean look and the BarWave component that act as the sound’s wavelength and also as a progress of playing, It’s brilliant!\n\nMe, as one of the maintainer Fuse Open Framework is very happy and proud for you. And I …",
+                "title": "Amplify - Podcast App Built Using Fuse [Show and Tell]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/amplify-podcast-app-built-using-fuse\/8521\/2",
+                "author_name": "@Hassan_M",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/hassan_m\/45\/957_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1736417129.527499",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

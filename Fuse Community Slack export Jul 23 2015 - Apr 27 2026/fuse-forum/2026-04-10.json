@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "What’s the Best Way to Convert MBOX to PDF? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Converting MBOX files to PDF is a practical solution for secure email storage, sharing, and documentation, and it can be done efficiently using the Cigati MBOX Converter. This tool provides a simple and user-friendly interface that allows users to add single or multiple MBOX files, preview email content along with attachments, and select PDF as the desired output format. It also offers advanced fe…",
+                "title": "What’s the Best Way to Convert MBOX to PDF? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/what-s-the-best-way-to-convert-mbox-to-pdf\/9633\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1775826148.081719",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How can Enterprises Convert multiple OST files to PST in bulk? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Enterprises often deal with hundreds or even thousands of OST files, making manual conversion impractical. A reliable approach is to use a professional solution like the <https:\/\/www.cigatisolutions.com\/ost-to-pst-converter\/|Cigati OST to PST Converter>, which is designed to handle bulk conversions efficiently while maintaining data integrity.\n\nFor enterprise-level bulk conversion, the process typically begins by installing the tool on a secure system …",
+                "title": "How can Enterprises Convert multiple OST files to PST in bulk? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-can-enterprises-convert-multiple-ost-files-to-pst-in-bulk\/9648\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1776689242.482069",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

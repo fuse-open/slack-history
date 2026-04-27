@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Transfer Emails from One Gmail Account to Another? - @mohdkaif002 (Mohd Kaif)",
+                "text": "Move emails from one Gmail account to another effortlessly with the MacSonik Gmail Backup Tool, a professional solution designed for safe, fast, and reliable email migration. This powerful tool ensures that your emails, attachments, and folder structures are transferred without any data loss. Simply install the software, sign in to your source Gmail account, and grant IMAP access. You can select s…",
+                "title": "Best Method to Transfer Emails from One Gmail Account to Another? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-transfer-emails-from-one-gmail-account-to-another\/9200\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758619137.857459",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

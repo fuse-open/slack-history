@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Use RecoveryTools MBOX Migrator? - @novamarco",
+                "text": "The <https:\/\/www.recoverytools.com\/mbox\/migrator\/|RecoveryTools MBOX Migrator> is a versatile software designed for both Mac and Windows platforms, enabling users to convert MBOX files into over 35 different formats and email clients. It supports various MBOX file types, including MBOX, MBS, MBX, and MSF, ensuring compatibility with numerous email clients such as Thunderbird, Apple Mail, and SeaMonkey.\n\nKey Features:\n\nExtensive Conversion Opt…",
+                "title": "How to Use RecoveryTools MBOX Migrator? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-use-recoverytools-mbox-migrator\/8621\/1",
+                "author_name": "@novamarco",
+                "author_icon": "https:\/\/yyz1.discourse-cdn.com\/flex035\/user_avatar\/forums.fusetools.com\/novamarco\/45\/1141_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1743509876.427989",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

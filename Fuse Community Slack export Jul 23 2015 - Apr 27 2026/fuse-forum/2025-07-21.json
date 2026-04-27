@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to print Outlook contacts with all details easily? - @Somya",
+                "text": "There are multiple solution to <https:\/\/www.article1.co.uk\/Articles-of-2024-Europe-UK-US\/how-print-outlook-contacts-all-details-step-guide|print Outlook contacts with all details>. The Manual way suggests to first open Outlook and Navigate the contacts. Second, Change the view to show all the details. Third, select those contacts which you want to print and finally, start the printing process.\n\nHowever, the manual ways have a lot of limitations such as it is very lengthy and prone to error. Thus, that is…",
+                "title": "How to print Outlook contacts with all details easily? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-print-outlook-contacts-with-all-details-easily\/8915\/1",
+                "author_name": "@Somya",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/e0b2c6\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753098162.545069",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Way to Convert MBOX Files to PST? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to convert MBOX files to PST, then you can try the <https:\/\/www.sysinfotools.com\/recovery\/mbox-converter.php|SysInfo MBOX Converter Tool>. It allows users to import MBOX files into various email clients like Gmail, Office 365, Thunderbird, etc. It exports MBOX online to PST, PDF, EML, EMLX, MSG, HTML, and other formats. This tool easily completes single and multiple MBOX files simultaneously. It includes several features …",
+                "title": "Best Way to Convert MBOX Files to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-way-to-convert-mbox-files-to-pst\/8918\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753158938.486689",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Convert DBX File to PST? - @lucasjones",
+                "text": "To convert a DBX file to PST, use the Softaken DBX to PST Converter Software. This software migrates emails and attachments from Outlook Express (DBX) into MS Outlook in bulk. It is designed to convert DBX files to PST without requiring any technical expertise, making it accessible to both novice and professional users through its user-friendly interface. During the process of transferring Outlook…",
+                "title": "How to Convert DBX File to PST? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-convert-dbx-file-to-pst\/8756\/2",
+                "author_name": "@lucasjones",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/f07891\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1753162194.140609",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

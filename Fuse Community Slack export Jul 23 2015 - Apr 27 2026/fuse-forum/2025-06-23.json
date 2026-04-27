@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Backup Google Workspace Data into PDF - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are searching for a method to backup Google Workspace data into PDF, then you can try the SysInfo Google Workspace Backup Tool. It allows you to back up all your G Suite emails, contacts, calendars, and Google Drive files, and effortlessly move Google Workspace data to Office, Gmail, G Suite, IMAP, iCloud, and more. You can also export your Gmail information into widely used formats like PS…",
+                "title": "How to Backup Google Workspace Data into PDF [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-backup-google-workspace-data-into-pdf\/8741\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750669024.247309",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "66128d",
+                "fallback": "Migrate EML to PST with MailsWare EML Convertor Toolkit - @patrickwilson (Patrick)",
+                "text": "If you want to convert EML files to PST without Outlook, then it is a good idea to go with Yota <https:\/\/yotasoftware.com\/eml-converter\/pst.html|EML to PST Converter> Tool. This tool is recommended by the experts and lets you convert multiple EML files to PST in one go. Plus, the software does not require the installation of any external applications to begin the conversion. You can convert EML files which are created from Thunderbird, Outlook Ex…",
+                "title": "Migrate EML to PST with MailsWare EML Convertor Toolkit [General]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/migrate-eml-to-pst-with-mailsware-eml-convertor-toolkit\/8540\/6",
+                "author_name": "@patrickwilson (Patrick)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/p\/7c8e57\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750683934.829249",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

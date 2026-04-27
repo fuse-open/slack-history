@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U1Z5FQXFU",
+        "type": "message",
+        "ts": "1726348280.907679",
+        "edited": {
+            "user": "U1Z5FQXFU",
+            "ts": "1726349249.000000"
+        },
+        "client_msg_id": "e4c73ce7-8de2-4578-a7e1-f534439db08f",
+        "text": "Hi Fusers, i have some issue form my last VS Code update.\nThe fuse extension on VS Code doesn't autocomplete when i tiping. Except for some few reserved fuse word. Does someone have the same issue?\nThanks\n\nVS Code info (may help)\nVersion : 1.93.1 (user setup)\nValidation : 38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\nDate : 2024-09-11T17:20:05.685Z\nElectron : 30.4.0\nElectronBuildId : 10073054\nChromium : 124.0.6367.243\nNode.js : 20.15.1\nV8 : 12.4.254.20-electron.0\nOperating System : Windows_NT x64 10.0.22631",
+        "team": "T08325737",
+        "user_team": "T08325737",
+        "source_team": "T08325737",
+        "user_profile": {
+            "avatar_hash": "gecb23ad2e76",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9ecb23ad2e76f8d791bfcd0519c7d64b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "MVONDO",
+            "real_name": "MVONDO Yannick",
+            "display_name": "Franck",
+            "team": "T08325737",
+            "name": "mvondoyannick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bvbAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Fusers, i have some issue form my last VS Code update.\nThe fuse extension on VS Code doesn't autocomplete when i tiping. Except for some few reserved fuse word. Does someone have the same issue?\nThanks\n\nVS Code info (may help)\nVersion : 1.93.1 (user setup)\nValidation : 38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\nDate : 2024-09-11T17:20:05.685Z\nElectron : 30.4.0\nElectronBuildId : 10073054\nChromium : 124.0.6367.243\nNode.js : 20.15.1\nV8 : 12.4.254.20-electron.0\nOperating System : Windows_NT x64 10.0.22631"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F07M1HYR5SB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U1Z5FQXFU",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1726349251.514239",
+        "client_msg_id": "d62cf640-aa63-43c9-9c0d-f572d7ca0c0e"
+    }
+]

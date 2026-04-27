@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U024ET51BLG",
+        "type": "message",
+        "ts": "1733111613.593059",
+        "edited": {
+            "user": "B023X8DUEHJ",
+            "ts": "1733212385.000000"
+        },
+        "bot_id": "B023X8DUEHJ",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T08325737",
+        "bot_profile": {
+            "id": "B023X8DUEHJ",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U024ET51BLG",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1622616203,
+            "team_id": "T08325737"
+        },
+        "thread_ts": "1733111613.593059",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1733212385.481189",
+        "reply_users": [
+            "U024ET51BLG"
+        ],
+        "replies": [
+            {
+                "user": "U024ET51BLG",
+                "ts": "1733212378.156629"
+            },
+            {
+                "user": "U024ET51BLG",
+                "ts": "1733212385.481189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1733111611,
+                "color": "6f42c1",
+                "fallback": "[fuse-open\/fuselibs] Pull request opened by ichan-mb",
+                "text": "When we define `ScrollView` content such as `StackPanel` with padding, the bottom padding will not work, This is default behavior how Android Scrollview calculate layout, see: <https:\/\/stackoverflow.com\/questions\/17124680\/scrollview-doesnt-scroll-to-the-margin-at-the-bottom?rq=3|https:\/\/stackoverflow.com\/questions\/17124680\/scrollview-doesnt-scroll-to-the-margin-at-the-bottom?rq=3>. So to fix it we need to wrap the content with container as suggested on the link.\n\nTest Case:\n\n&lt;App&gt;\n\t&lt;ClientPanel&gt;\n\t\t&lt;JavaScript&gt;\n\n\t\t\tvar Observable = require(\"FuseJS\/Observable\")\n\t\t\tvar items = new Observable(1,2,3,4,5,6,7,8,9,10)\n\n\t\t\tmodule.exports = {\n\t\t\t\titems,\n\t\t\t\taddItem: function() {\n\t\t\t\t\titems.add(11)\n\t\t\t\t}\n\t\t\t}\n\t\t&lt;\/JavaScript&gt;\n\t\t&lt;StackPanel Dock=\"Top\" Height=\"100\"&gt;\n\t\t\t&lt;Button Text=\"Add\"&gt;\n\t\t\t\t&lt;Clicked Handler=\"{addItem}\" \/&gt;\n\t\t\t&lt;\/Button&gt;\n\t\t&lt;\/StackPanel&gt;\n\t\t&lt;ScrollView ux:Name=\"scroll\"&gt;\n\t\t\t&lt;StackPanel Padding=\"20\" ItemSpacing=\"15\" Color=\"Red\" ux:Name=\"container\"&gt;\n\t\t\t\t&lt;Each Items=\"{items}\"&gt;\n\t\t\t\t\t&lt;Panel Height=\"100\" Color=\"Blue\" \/&gt;\n\t\t\t\t&lt;\/Each&gt;\n\t\t\t\t&lt;Panel Height=\"100\" Color=\"Yellow\" \/&gt;\n\t\t\t&lt;\/StackPanel&gt;\n\t\t&lt;\/ScrollView&gt;\n\t&lt;\/ClientPanel&gt;\n&lt;\/App&gt;\n\nThis PR contains:\n\n• Changelog\n• Documentation\n• Tests",
+                "pretext": "Pull request opened by <https:\/\/github.com\/ichan-mb|ichan-mb>",
+                "title": "<https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1505|#1505 Fix Android Scrollview with content padding>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/fuse-open\/fuselibs|fuse-open\/fuselibs>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/mortend|@mortend>",
+                        "title": "Reviewers",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;fuse-open&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:38071830,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;fuselibs&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:89240957,&amp;amp;quot;number&amp;amp;quot;:1505,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/fuse-open\/fuselibs\/pull\/1505&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Fix Android Scrollview with content padding&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

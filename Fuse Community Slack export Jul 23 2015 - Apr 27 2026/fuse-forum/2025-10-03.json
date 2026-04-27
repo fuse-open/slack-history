@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Unable to publish new app on Google Play console - @Sk8010 (Sk)",
+                "text": "Very helpful methods",
+                "title": "Unable to publish new app on Google Play console [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/unable-to-publish-new-app-on-google-play-console\/8309\/2",
+                "author_name": "@Sk8010 (Sk)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/d78d45\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759482932.743399",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Migrate From cPanel to Zoho Mail? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The process of migrating emails from cPanel to Zoho Mail becomes simple and secure with the <https:\/\/www.macsonik.com\/imap-email-backup\/|MacSonik IMAP Backup Tool>. This advanced utility allows direct migration by logging in with your cPanel credentials and selecting Zoho Mail as the destination. It ensures that all mailbox data, including attachments, metadata, and email formatting, is preserved during the transfer. Users can also apply filt…",
+                "title": "How to Migrate From cPanel to Zoho Mail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-migrate-from-cpanel-to-zoho-mail\/9229\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759495152.914059",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

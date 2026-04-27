@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Read and Open MBOX Files? - @mohdkaif002 (Mohd Kaif)",
+                "text": "If you are looking for a method to read and open MBOX files, you can use the SysInfo MBOX File Viewer. It is a versatile tool that allows you to <https:\/\/www.sysinfotools.com\/blog\/open-mbox-file-on-mac\/|open and read multiple MBOX files>simultaneously. It can display all mailbox folders, including your Inbox, Sent Items, and Drafts. A key feature of this tool is its ability to access and view data from even corrupted MBOX files. It also offers a full prev…",
+                "title": "How to Read and Open MBOX Files? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-read-and-open-mbox-files\/9101\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755857519.208639",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

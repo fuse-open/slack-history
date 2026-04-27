@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Easy Guide to Convert ICS File to Excel? - @mishti",
+                "text": "<https:\/\/www.systoolsgroup.com\/ics\/converter\/|SysTools ICS Converter> is a practical option when you need an easy and accurate way to work with ICS files. To <https:\/\/www.systoolsgroup.com\/how-to\/convert-ics-to-csv\/|convert an ICS file to Excel>, using a dedicated ICS conversion tool is usually the simplest approach. Manual methods often require importing the file into an email client first and then exporting again, which can be confusing and time-consuming. A specialized converter can directly export…",
+                "title": "Easy Guide to Convert ICS File to Excel? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/easy-guide-to-convert-ics-file-to-excel\/9313\/2",
+                "author_name": "@mishti",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/4da419\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770728512.626689",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

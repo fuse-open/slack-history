@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to change Android sdk path manually - @elinasadiq",
+                "text": "Hello,\n\nYes, it’s possible to manually change the Android SDK, NDK, and build tools directories to a separate location like “D” instead of the default “C” drive. You can achieve this by setting system environment variables that Android Studio can detect. This allows you to keep your development environment organized and avoid duplicating resources, optimizing storage and resource usage effectively…",
+                "title": "How to change Android sdk path manually [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-change-android-sdk-path-manually\/8223\/3",
+                "author_name": "@elinasadiq",
+                "author_icon": "https:\/\/sjc6.discourse-cdn.com\/standard17\/user_avatar\/forums.fusetools.com\/elinasadiq\/45\/1125_2.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1721029463.261569",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

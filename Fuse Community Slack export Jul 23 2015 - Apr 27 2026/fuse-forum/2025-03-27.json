@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "How to Import MBOX to Gmail - @michaelgomez (Michael)",
+                "text": "If you want to <https:\/\/yotasoftware.com\/blogs\/import-mbox-to-gmail\/|import MBOX to Gmail without Thunderbird>, then you need to use the automated ** Yota MBOX Converter Wizard** on your PC. It gives you an option to directly import MBOX file to Gmail account. Moreover, you can upload MBOX files of Thunderbird, Apple Mail, Google Takeout and other supported email clients without any interruption. The tool also offers a simple interface that any beginn…",
+                "title": "How to Import MBOX to Gmail [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/how-to-import-mbox-to-gmail\/8612\/1",
+                "author_name": "@michaelgomez (Michael)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/ecae2f\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1743090992.734139",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]

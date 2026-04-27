@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Fuse Community",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "44aec5",
+                "fallback": "Best Method to Convert MSG to AOL Mail? - @mohdkaif002 (Mohd Kaif)",
+                "text": "The MacSonik MSG Converter Tool is an excellent choice for <https:\/\/www.macsonik.com\/blog\/import-msg-to-aol-mail\/|importing MSG files into AOL Mail>. This professional software allows smooth conversion or import of MSG files to various email clients, including AOL Mail, with complete data security. You can easily add single or multiple MSG files, choose AOL Mail as the destination, and sign in with your credentials. With features like bulk migration, d…",
+                "title": "Best Method to Convert MSG to AOL Mail? [How-to Discussions]",
+                "title_link": "https:\/\/forums.fusetools.com\/t\/best-method-to-convert-msg-to-aol-mail\/9291\/1",
+                "author_name": "@mohdkaif002 (Mohd Kaif)",
+                "author_icon": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/45.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1761903786.731599",
+        "bot_id": "BGWKSLG9M",
+        "app_id": "AGV0G78D7"
+    }
+]
